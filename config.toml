@@ -61,11 +61,7 @@ paginate = 9
   #-------------------------------
   # Contact Settings
   [params.contact]
-    email = "info@peakscale.ch" # Add your form_id for contant form
-
-    # NOTE
-    # Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
-
+    email = "mjvlykdz" # Add your Formspree form_id for contant form
 
 [markup]
   [markup.goldmark]
