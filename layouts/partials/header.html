@@ -5,9 +5,9 @@
       <div class="header__inner col col-12">
 
         <div class="logo">
-          <a class="logo__link" href="{{ .Site.BaseURL }}">
+          <a class="logo__link" href="/">
             {{ if .Site.Params.logo }}
-              <img class="logo__image" src="{{ .Site.BaseURL }}{{ .Site.Params.logo }}" alt="{{ .Site.Title }}">
+              <img class="logo__image" src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }}">
             {{ else }}
               {{ .Site.Title }}
             {{ end }}

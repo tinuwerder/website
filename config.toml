@@ -1,179 +1,70 @@
 #-------------------------------
 # General Site Settings
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Clancy"
+baseURL = "https://peakscale.cloud/"
+languageCode = "de-ch"
+title = "Peak Scale"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 paginate = 9
 
 
 [params]
-  logo = "" # You can add own logo. For example "/images/logo.png".
-  author = "Jason Collins"
-  description = "Clancy is a elegant portfolio theme for HUGO."
-
+  logo = "/images/logo.png"
+  author = "Peak Scale"
+  description = "Cloud Native Experten"
+  image = "/images/logo.png"
 
 #-------------------------------
 # Main Menu
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Home"
+    name = "Start"
     url = "/"
     weight = 1
 
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/posts/"
-    weight = 2
-
-  [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "Über uns"
     url = "/about/"
     weight = 3
 
   [[menu.main]]
     identifier = "contact"
-    name = "Contact"
+    name = "Kontakt"
     url = "/contact/"
     weight = 4
-
-  [[menu.main]]
-    identifier = "elements"
-    name = "Elements"
-    url = "/elements/"
-    weight = 5
 
 
   #-------------------------------
   # Hero Settings
   [params.hero]
-    hero__title = "Hello, my name’s Jason. I’m a Designer & Photographer based in San Francisco."
-    hero__description = "I'm a freelance designer and photographer. For almost five years I have been working with clients from a variety of clients to create pieces that meet their goals. I invite you to navigate my portfolio to know a bit more about me and my work."
-
-
-  #-------------------------------
-  # Portfolio Settings
-  [params.portfolio]
-    portfolio__title = "Portfolio"
-
-  [[params.gallery_item]]
-    image = "/images/gallery-image.jpg"
-    title = "Samantha Gades"
-    description = "Brown photo frame beside wall <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
-
-  [[params.gallery_item]]
-    image = "/images/gallery-image.jpg"
-    title = "Paula Vermeulen"
-    description = "Gray mountain covered by mountain <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
-
-  [[params.gallery_item]]
-    image = "/images/gallery-image.jpg"
-    title = "Bench Accounting"
-    description = "White wooden table near brown chair <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
-
-  [[params.gallery_item]]
-    image = "/images/gallery-image.jpg"
-    title = "Nord Wood"
-    description = "White ceramic mug <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
-
-  [[params.gallery_item]]
-    image = "/images/gallery-image.jpg"
-    title = "Luca Bravo"
-    description = "White ribs in a facade against a white sky <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
-
-  [[params.gallery_item]]
-    image = "/images/gallery-image.jpg"
-    title = "Isaac Benhesed"
-    description = "Minimalist black coffee <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
-
-  [[params.gallery_item]]
-    image = "/images/gallery-image.jpg"
-    title = "Water Journal"
-    description = "Water Journal is a bi-annual publication exploring the beauty and complexity of all things water <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
-
-  [[params.gallery_item]]
-    image = "/images/gallery-image.jpg"
-    title = "Luca Bravo"
-    description = "Worms eye view of city buildings <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
-
-  [[params.gallery_item]]
-    image = "/images/gallery-image.jpg"
-    title = "Books and Laptop"
-    description = "Silver laptop computer with two books on the top <a href='https://via.placeholder.com/1100x740'>Unsplash</a>"
-
-  #-------------------------------
-  # Subscribe Settings
-  [params.mailchimp]
-    mailchimp__title = "Get updates and digital art inspiration" # Add your Title
-    mailchimp__identifier = "frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-    mailchimp__input__text = "Email address" # Add your input text.
-    mailchimp__button__text = "Subscribe" # Add your button text.
-    mailchimp__bg__color = "#f2eef8" # To change the color of the figure, add a hexadecimal color code (HEX). For example - "#f2eef8".
+    hero__title = "Cloud Native Experten"
+    hero__description = "Peak Scale bietet in den Bereichen Cloud, CI/CD und IaC ihre Dienstleistungen für Beratung, Architektur und Engineering an."
 
   #-------------------------------
   # Footer Settings
+  # Other icons can be found at https://ionicons.com/v4/
   [[params.social]]
     icon = "ion-logo-twitter"
     name = "Twitter"
     link = "https://twitter.com"
     color = "#55acee"
+    description = "Twitter Description"
 
   [[params.social]]
-    icon = "ion-logo-facebook"
-    name = "Facebook"
-    link = "https://facebook.com"
-    color = "#3b5999"
-
-  [[params.social]]
-    icon = "ion-logo-pinterest"
-    name = "Pinterest"
-    link = "https://pinterest.com"
-    color = "#bd081c"
-
-  [[params.social]]
-    icon = "ion-logo-dribbble"
-    name = "Dribbble"
-    link = "https://dribbble.com"
-    color = "#ea4c89"
-
-  [[params.social]]
-    icon = "ion-logo-instagram"
-    name = "Instagram"
-    link = "https://instagram.com"
-    color = "#e4405f"
-
-
-  [[params.social]]
-    icon = "ion-logo-vimeo"
-    name = "Vimeo"
-    link = "https://vimeo.com"
-    color = "#1393cd"
-
-  # Example of adding a new link to the footer section:
-  # [[params.social]]
-  #   icon = "ion-logo-youtube"
-  #   name = "Youtube"
-  #   link = "https://youtube.com"
-  #   color = "#ff0000"
-
-  # Other icons can be found at https://ionicons.com/v4/
+    icon = "ion-logo-linkedin"
+    name = "LinkedIn"
+    link = "https://linkedin.com"
+    color = "#2867b2"
 
 
   #-------------------------------
   # Contact Settings
   [params.contact]
-    email = "your@email.com" # Add your form_id for contant form
+    email = "info@peakscale.ch" # Add your form_id for contant form
 
     # NOTE
     # Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
-
-  #-------------------------------
-  # Comment Section (Disqus)
-  [params.disqus]
-    disqusShortname = "anvodstudio-demo" # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 [markup]
