@@ -1,11 +1,8 @@
 #-------------------------------
 # General Site Settings
-baseURL = "https://peakscale.cloud/"
-languageCode = "de-ch"
+languageCode = "de-CH"
 title = "Peak Scale"
-googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 paginate = 9
-
 
 [params]
   logo = "/images/logo.png"
