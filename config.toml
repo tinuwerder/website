@@ -47,14 +47,14 @@ paginate = 9
     icon = "ion-logo-twitter"
     name = "Twitter"
     link = "https://twitter.com"
-    color = "#55acee"
+    color = "#0580c4"
     description = "Twitter Description"
 
   [[params.social]]
     icon = "ion-logo-linkedin"
     name = "LinkedIn"
     link = "https://linkedin.com"
-    color = "#2867b2"
+    color = "#0580c4"
 
 
   #-------------------------------
