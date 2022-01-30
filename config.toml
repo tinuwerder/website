@@ -2,6 +2,7 @@
 # General Site Settings
 languageCode = "de-CH"
 title = "Peak Scale"
+baseURL = "https://peakscale.ch/"
 paginate = 9
 
 [params]
