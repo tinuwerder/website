@@ -7,8 +7,8 @@
         <div class="logo">
           <a class="logo__link" href="/">
             {{ if .Site.Params.logo }}
-              <div class="toggle-moon"><img class="logo__image" src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }}"></div>
-              <div class="toggle-sun"><img class="logo__image" src="{{ .Site.Params.logoDark }}" alt="{{ .Site.Title }}"></div>
+              <div class="toggle-moon"><img src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }}" width="115" height="50"></div>
+              <div class="toggle-sun"><img src="{{ .Site.Params.logoDark }}" alt="{{ .Site.Title }}" width="115" height="50"></div>
             {{ else }}
               {{ .Site.Title }}
             {{ end }}
