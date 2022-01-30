@@ -6,7 +6,8 @@ baseURL = "https://peakscale.ch/"
 paginate = 9
 
 [params]
-  logo = "/images/logo.png"
+  logo = "/images/peakscale.svg"
+  logoDark = "/images/peakscale_dark.svg"
   author = "Peak Scale"
   description = "Cloud Native Experten"
   image = "/images/logo.png"
