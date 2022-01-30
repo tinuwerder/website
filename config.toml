@@ -10,7 +10,7 @@ paginate = 9
   logoDark = "/images/peakscale_dark.svg"
   author = "Peak Scale"
   description = "Cloud Native Experten"
-  image = "/images/logo.png"
+  imageSocial = "/images/peakscale_social.png"
 
 #-------------------------------
 # Main Menu
