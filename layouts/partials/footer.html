@@ -6,7 +6,7 @@
       <div class="col col-12">
 
         <div class="footer__inner">
-        {{ if .Site.Params.social }}
+        {{ if and .Site.Params.social (not .Params.nosocial) }}
           {{ with .Site.Params.social }}
           <div class="social">
             <ul class="social__list list-reset">

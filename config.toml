@@ -6,75 +6,74 @@ baseURL = "https://peakscale.ch/"
 paginate = 9
 
 [params]
-  logo = "/images/peakscale.svg"
-  logoDark = "/images/peakscale_dark.svg"
-  author = "Peak Scale"
-  description = "Cloud Native Experten"
-  imageSocial = "/images/peakscale_social.png"
+logo = "/images/peakscale.svg"
+logoDark = "/images/peakscale_dark.svg"
+author = "Peak Scale"
+description = "Cloud Native Experten"
+imageSocial = "/images/peakscale_social.png"
 
 #-------------------------------
 # Main Menu
 [menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Start"
-    url = "/"
-    weight = 1
+[[menu.main]]
+identifier = "home"
+name = "Start"
+url = "/"
+weight = 1
 
-  [[menu.main]]
-    identifier = "services"
-    name = "Angebot"
-    url = "/services"
-    weight = 2
+[[menu.main]]
+identifier = "services"
+name = "Angebot"
+url = "/services/"
+weight = 2
 
-  [[menu.main]]
-    identifier = "about"
-    name = "Über uns"
-    url = "/about/"
-    weight = 3
+[[menu.main]]
+identifier = "about"
+name = "Über uns"
+url = "/about/"
+weight = 3
 
-  [[menu.main]]
-    identifier = "contact"
-    name = "Kontakt"
-    url = "/contact/"
-    weight = 4
+[[menu.main]]
+identifier = "contact"
+name = "Kontakt"
+url = "/contact/"
+weight = 4
 
+#-------------------------------
+# Hero Settings
+[params.hero]
+hero__title = "Cloud Native Experten"
+hero__description = """Bei Peak Scale sind wir überzeugt, dass IT Architektur dem steten Wandel unterliegt.
+    Deshalb bauen wir auf pragmatische und evolutionäre Ansätze bei unseren Konzepten.
+    Gerne unterstützen und beraten wir mit Dienstleistungen in den Bereichen Architektur, Engineering,
+    Trainings und Assessments im Umfeld von modernen, Cloud Native-basierten Infrastrukturen."""
 
-  #-------------------------------
-  # Hero Settings
-  [params.hero]
-    hero__title = "Cloud Native Experten"
-    hero__description = "Peak Scale bietet in den Bereichen Cloud, CI/CD und IaC ihre Dienstleistungen für Beratung, Architektur und Engineering an."
+#-------------------------------
+# Footer Settings
+# Other icons can be found at https://ionicons.com/v4/
+[[params.social]]
+icon = "ion-logo-linkedin"
+name = "LinkedIn"
+link = "https://www.linkedin.com/company/peakscale/"
+color = "#0580c4"
 
-  #-------------------------------
-  # Footer Settings
-  # Other icons can be found at https://ionicons.com/v4/
-  [[params.social]]
-    icon = "ion-logo-twitter"
-    name = "Twitter"
-    link = "https://twitter.com"
-    color = "#0580c4"
-    description = "Twitter Description"
+[[params.social]]
+icon = "ion-logo-twitter"
+name = "Twitter"
+link = "https://twitter.com/peak_scale"
+color = "#0580c4"
 
-  [[params.social]]
-    icon = "ion-logo-linkedin"
-    name = "LinkedIn"
-    link = "https://linkedin.com"
-    color = "#0580c4"
-
-
-  #-------------------------------
-  # Contact Settings
-  [params.contact]
-    email = "mjvlykdz" # Add your Formspree form_id for contant form
+#-------------------------------
+# Contact Settings
+[params.contact]
+email = "mjvlykdz" # Add your Formspree form_id for contant form
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 [markup.highlight]
-  codeFences = true
-  guessSyntax = true
-  noClasses = false
+codeFences = true
+guessSyntax = true
+noClasses = false

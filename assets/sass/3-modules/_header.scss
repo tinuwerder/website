@@ -72,7 +72,7 @@
             }
           }
 
-          &.nav__link--current {
+          &.nav__link__current {
             color: var(--brand-color);
 
             &::after {
@@ -172,7 +172,7 @@
       font-weight: 700;
       transition: none;
 
-      &.nav__link--current {
+      &.nav__link__current {
         &::after {
           transform: scaleX(1);
           transition: none;
