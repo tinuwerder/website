@@ -43,7 +43,7 @@ weight = 4
 # Hero Settings
 [params.hero]
 hero__title = "Cloud Native Experten"
-hero__description = """Bei Peak Scale sind wir überzeugt, dass IT Architektur dem steten Wandel unterliegt.
+hero__description = """Bei Peak Scale sind wir überzeugt, dass IT-Architektur dem steten Wandel unterliegt.
     Deshalb bauen wir auf pragmatische und evolutionäre Ansätze bei unseren Konzepten.
     Gerne unterstützen und beraten wir mit Dienstleistungen in den Bereichen Architektur, Engineering,
     Trainings und Assessments im Umfeld von modernen, Cloud Native-basierten Infrastrukturen."""
