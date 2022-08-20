@@ -14,7 +14,7 @@ imageSocial = "/images/peakscale_social.png"
 
 [params.plausible]
 enable = true
-domain = "plausible.ch"
+domain = "peakscale.ch"
 
 #-------------------------------
 # Main Menu
