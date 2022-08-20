@@ -48,6 +48,8 @@
     }
   </script>
 
+  {{ partial "plausible_head.html" . }}
+
   <!-- CSS -->
   {{ with resources.Get "sass/main.scss" | toCSS | minify }}
   <style>{{ .Content | safeCSS }}</style>

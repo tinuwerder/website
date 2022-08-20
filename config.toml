@@ -12,6 +12,10 @@ author = "Peak Scale"
 description = "Cloud Native Experten"
 imageSocial = "/images/peakscale_social.png"
 
+[params.plausible]
+enable = true
+domain = "plausible.ch"
+
 #-------------------------------
 # Main Menu
 [menu]
