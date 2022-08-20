@@ -8,7 +8,7 @@ image: /images/joel-jasmin-forestbird-znoL1m6MD_k-unsplash.jpg
 
 Modern und pragmatisch bewegen wir uns in einem dynamischen und technologisch anspruchsvollen Umfeld rund um die Themen von Cloud Native Computing. Für unsere Kundinnen und Kunden entwickeln und optimieren wir evolutionäre Software- und Infrastruktur-Lösungen, wir beraten in Themen der IT-Architektur und wir setzen uns für nachhaltige Ideen ein.
 
-Bei uns stehen Leidenschaft und Eigenverantwortung an oberster Stelle. Unser Engagement in lokal und international verankerten Communitys zeichnet uns aus. Deshalb suchen wir Personen, die uns auf unserem Weg mit Begeisterung und Passion begleiten und es verstehen, sich selbst herausfordern. Bei uns arbeitest du in spannenden und vielseitigen Kundenprojekten im Raum Bern. Deine Work-Life-Balance hältst du mit einer Viertagewoche bei 100 % Lohn in Balance.
+Bei uns stehen Leidenschaft und Eigenverantwortung an oberster Stelle. Unser Engagement in lokal und international verankerten Communitys zeichnet uns aus. Deshalb suchen wir Personen, die uns auf unserem Weg mit Begeisterung und Passion begleiten und es verstehen, sich selbst herausfordern. Bei uns arbeitest du in spannenden und vielseitigen Kundenprojekten im Raum Bern.
 
 ## Das zeichnet dich aus
 
