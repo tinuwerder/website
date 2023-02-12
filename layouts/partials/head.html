@@ -5,6 +5,7 @@
   <link rel="icon" href="/favicon.ico" sizes="any"><!-- 32×32 -->
   <link rel="icon" href="/icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png"><!-- 180×180 -->
+  <link rel="canonical" href="{{ .Permalink }}" />
 
   <title>{{ if not .IsHome }}{{ humanize .Title }} | {{ end }}{{ .Site.Title }}</title>
   <meta name="description" content="{{if .IsHome}}{{ .Site.Params.description }}{{else}}{{ .Description }}{{end}}">
