@@ -3,6 +3,7 @@
 languageCode = "de-CH"
 title = "Peak Scale"
 baseURL = "https://peakscale.ch/"
+relativeURLs = true
 paginate = 9
 
 [params]
