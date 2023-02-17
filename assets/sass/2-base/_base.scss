@@ -135,7 +135,7 @@ img,
   }
 }
 
-.sqr__div {
+div.sqr_border {
   padding: 16px;
   border-radius: 16px;
   background: var(--background-alt-color);
@@ -160,10 +160,11 @@ div.sqr {
 }
 
 .scl {
-  font-size: 16px;
+  border-bottom: none !important;
+  vertical-align: middle;
 
   i {
-    font-size: 24px;
+    font-size: 32px;
   }
 }
 

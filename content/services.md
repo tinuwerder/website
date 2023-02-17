@@ -1,6 +1,6 @@
 ---
 title: Angebot
-image: /images/marc-thunis-_oUCmqTp8wg-unsplash.jpeg
+image: /images/stock/marc-thunis-_oUCmqTp8wg-unsplash.jpeg
 ---
 
 ## Architektur und Cloud

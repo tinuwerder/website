@@ -1,6 +1,6 @@
 ---
 title: Jobs
-image: /images/joel-jasmin-forestbird-znoL1m6MD_k-unsplash.jpg
+image: /images/stock/joel-jasmin-forestbird-znoL1m6MD_k-unsplash.jpg
 ---
 
 # Cloud Native Engineers/Architects (60-100%)
