@@ -5,48 +5,106 @@ image: /images/stock/alain-ehNRo3eWJAk-unsplash.jpeg
 
 ## Kunden
 
-Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte Kunden gewinnen können. Wir freuen uns, dass wir mit unseren Kunden zusammenarbeiten dürfen.
+Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte Kunden gewinnen können.
 
 <div class="row">
     <div class="article col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
-                <img src="/images/customers/ace.jpg">
+                <a href="https://www.bedag.ch/">
+                    <img src="/images/customers/bedag.png">
+                </a>
             </div>
         </div>
     </div>
     <div class="article col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
-                <img src="/images/customers/bedag.jpg">
+                <a href="https://www.bison-group.com/">
+                    <img src="/images/customers/bison.svg">
+                </a>
             </div>
         </div>
     </div>
     <div class="article col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
-                <img src="/images/customers/bison.svg">
+                <a href="https://www.bit.admin.ch/">
+                    <img src="/images/customers/bund.svg">
+                </a>
             </div>
         </div>
     </div>
     <div class="article col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
-                <img src="/images/customers/bund.svg">
+                <a href="https://www.gelan.ch/">
+                    <img src="/images/customers/gelan.png">
+                </a>
             </div>
         </div>
     </div>
     <div class="article col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
-                <img src="/images/customers/gelan.png">
+                <a href="https://www.mobiliar.ch/">
+                    <img src="/images/customers/mobiliar.svg">
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+---
+
+## Partner
+
+Mit dem heutigen Fachkräftemangel sind ein breites Netzwerk und strategische Partnerschaften ein wichtiger Bestandteil
+unseres Erfolgs.
+
+<div class="row">
+    <div class="article col col-4 col-d-6 col-t-12">
+        <div class="sqr_border">
+            <div class="sqr">
+                <a href="https://www.ace.ch/">
+                    <img src="/images/partners/ace.png"/>
+                </a>
             </div>
         </div>
     </div>
     <div class="article col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
-                <img src="/images/customers/mobiliar.svg">
+                <a href="https://avega.ch/">
+                    <img src="/images/partners/avega.svg"/>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-6 col-t-12">
+        <div class="sqr_border">
+            <div class="sqr">
+                <a href="https://bespinian.io/">
+                    <img src="/images/partners/bespinian.svg"/>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-6 col-t-12">
+        <div class="sqr_border">
+            <div class="sqr">
+                <a href="https://www.kiwi.ch/">
+                    <img src="/images/partners/kiwi.png"/>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-6 col-t-12">
+        <div class="sqr_border">
+            <div class="sqr">
+                <a href="https://nuvibit.com/">
+                    <img src="/images/partners/nuvibit.png"/>
+                </a>
             </div>
         </div>
     </div>
@@ -56,8 +114,8 @@ Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte K
 
 ## Team
 
-Wir sind ein Team aus erfahrenen IT-Profis. Wir sind stolz darauf, dass wir mit unserem Team ein breites Spektrum an 
-Fähigkeiten und Erfahrungen bieten können.
+Wir sind ein Team aus erfahrenen IT-Profis. Wir sind stolz darauf, dass wir ein breites Spektrum an Fähigkeiten und
+Erfahrungen bieten können.
 
 <div class="row">
     <div class="article col col-6 col-d-6 col-t-12">
@@ -66,7 +124,7 @@ Fähigkeiten und Erfahrungen bieten können.
           <img alt="Mathias Herzog" src="/images/team/mathiasherzog.png">
         </div>
         <div class="article__content">
-          <h2 class="article__title">Mathias Herzog &nbsp <a class="scl" href="https://www.linkedin.com/in/mathias-herzog-888a6788/" target="_blank" rel="noopener">
+          <h2 class="article__title">Mathias Herzog &nbsp <a class="scl" href="https://www.linkedin.com/in/mathias-herzog-888a6788/" rel="noopener">
             <i class="ion ion-logo-linkedin" style="color: #0580c4;"></i>
           </a></h2>
           <p class="article__excerpt">Infrastructure Artist und Brückenbauer zwischen Technik, Organisation und Management</p>
@@ -79,7 +137,7 @@ Fähigkeiten und Erfahrungen bieten können.
           <img alt="Johann Gyger" src="/images/team/johanngyger.png">
         </div>
         <div class="article__content">
-          <h2 class="article__title">Johann Gyger &nbsp <a class="scl" href="https://www.linkedin.com/in/johanngyger/" target="_blank" rel="noopener">
+          <h2 class="article__title">Johann Gyger &nbsp <a class="scl" href="https://www.linkedin.com/in/johanngyger/" rel="noopener">
             <i class="ion ion-logo-linkedin" style="color: #0580c4;"></i></a>
           </h2>
           <p class="article__excerpt">Software Artist, Cloud Native Ambassador und passionierter Engineer</p>
