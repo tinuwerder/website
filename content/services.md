@@ -1,6 +1,5 @@
 ---
 title: Angebot
-permlink: /services/
 image: /images/marc-thunis-_oUCmqTp8wg-unsplash.jpeg
 ---
 

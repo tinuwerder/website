@@ -1,6 +1,5 @@
 ---
 title: Jobs
-permlink: /jobs/
 image: /images/joel-jasmin-forestbird-znoL1m6MD_k-unsplash.jpg
 ---
 

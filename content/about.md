@@ -1,13 +1,12 @@
 ---
 title: Über uns
-image: /images/anina-huber-_KHkEwnwT5E-unsplash.jpeg
-nosocial: true
+image: /images/alain-ehNRo3eWJAk-unsplash.jpeg
 ---
 
 ## Kunden
 
 <div class="row">
-    <div class="customer col col-4 col-d-6 col-t-12">
+    <div class="article col col-4 col-d-6 col-t-12">
         <div class="sqr__div">
             <div class="sqr">
                 <img src="/images/customers/ace.jpg">
@@ -89,5 +88,3 @@ nosocial: true
       </div>
     </div>
 </div>
-
----
