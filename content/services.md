@@ -40,9 +40,65 @@ Immer auf der Suche nach Impulsen und neuen Wegen, um Dinge anders anzugehen, ve
 Menschen aus unterschiedlichsten Bereichen. Deswegen bringen wir Leute zusammen und organisieren gemeinsam Community
 Events. Unser Netzwerk und die gute Zusammenarbeit zu unterschiedlichsten Schweizer IT Firmen zeichnet uns aus.
 
-- Wir sind Co-Organisatoren der [Cloud Native Bern Community Meetups](https://www.meetup.com/cloudnativebern/)
-- Wir sind Co-Organisatoren des [Swiss Cloud Native Day](https://cloudnativeday.ch/)
-- Wir sind Mitgründer des Vereins [bernerit.rocks](https://bernerit.rocks/)
-- Wir engagieren uns im Digital Impact Network in
-  der [Fachgruppe Cloud Native & DevOps](https://digitalimpact.ch/din-fachgruppen/cloud-native-devops/)
-
+<div class="row">
+    <div class="article col col-4 col-d-6 col-t-12">
+      <div class="article__inner">
+        <div class="article__head">
+          <div class="sqr_border"><div class="sqr">
+            <a href="https://cloudnativeday.ch/"><img src="/images/community/cloudnativeday.png"></a>
+          </div></div>
+        </div>
+        <div class="article__content">
+          <h2 class="article__title"><a class="scl" href="https://cloudnativeday.ch/">
+            Swiss Cloud Native Day
+          </a></h2>
+          <p class="article__excerpt">Wir sind Co-Organisatoren des Swiss Cloud Native Days.</p>
+        </div>
+      </div>
+    </div>
+    <div class="article col col-4 col-d-6 col-t-12">
+      <div class="article__inner">
+        <div class="article__head">
+          <div class="sqr_border"><div class="sqr">
+            <a href="https://www.meetup.com/cloudnativebern/"><img src="/images/community/meetup.svg"></a>
+          </div></div>
+        </div>
+        <div class="article__content">
+          <h2 class="article__title"><a class="scl" href="https://www.meetup.com/cloudnativebern/">
+            Cloud Native Bern Meetup
+          </a></h2>
+          <p class="article__excerpt">Wir sind Co-Organisatoren des Cloud Native Bern Meetups.</p>
+        </div>
+      </div>
+    </div>
+    <div class="article col col-4 col-d-6 col-t-12">
+      <div class="article__inner">
+        <div class="article__head">
+          <div class="sqr_border"><div class="sqr">
+            <a href="https://bernerit.rocks/"><img src="/images/community/berneritrocks.png"></a>
+          </div></div>
+        </div>
+        <div class="article__content">
+          <h2 class="article__title"><a class="scl" href="https://bernerit.rocks/">
+            bernerit.rocks
+          </a></h2>
+          <p class="article__excerpt">Wir sind Mitgründer des Vereins bernerit.rocks.</p>
+        </div>
+      </div>
+    </div>
+    <div class="article col col-4 col-d-6 col-t-12">
+      <div class="article__inner">
+        <div class="article__head">
+          <div class="sqr_border"><div class="sqr">
+            <a href="https://digitalimpact.ch/"><img src="/images/community/digitalimpact.png"></a>
+          </div></div>
+        </div>
+        <div class="article__content">
+          <h2 class="article__title"><a class="scl" href="https://digitalimpact.ch/">
+            Digital Impact Network
+          </a></h2>
+          <p class="article__excerpt">Wir engagieren uns im Digital Impact Network in der Fachgruppe Cloud Native & DevOps.</p>
+        </div>
+      </div>
+    </div>
+</div>

@@ -7,7 +7,7 @@
 
   a {
     font-weight: 500;
-    border-bottom: 1px solid var(--border-color);
+    //border-bottom: 1px solid var(--border-color);
 
     &:hover {
       color: var(--link-color);
@@ -33,16 +33,16 @@
 .post__info,
 .page__info {
   max-width: 760px;
-  margin: 48px auto 48px;
+  margin: 32px auto 32px;
   text-align: center;
 
   @media only screen and (max-width: $desktop) {
     max-width: 100%;
-    margin: 40px auto;
+    margin: 32px auto;
   }
 
   @media only screen and (max-width: $mobile) {
-    margin: 40px auto 32px;
+    margin: 32px auto 32px;
   }
 }
 
@@ -115,7 +115,6 @@
 .page-image {
   position: relative;
   padding-top: 56.25%;
-  margin-bottom: 48px;
   border-radius: 16px;
   overflow: hidden;
   background: var(--background-alt-color);

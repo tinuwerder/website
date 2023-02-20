@@ -11,8 +11,26 @@ Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte K
     <div class="article col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
+                <a href="https://www.ace.ch/">
+                    <img src="/images/customers/ace.png"/>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-6 col-t-12">
+        <div class="sqr_border">
+            <div class="sqr">
                 <a href="https://www.bedag.ch/">
                     <img src="/images/customers/bedag.png">
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-6 col-t-12">
+        <div class="sqr_border">
+            <div class="sqr">
+                <a href="https://www.bfh.ch/">
+                    <img src="/images/customers/bfh.svg"/>
                 </a>
             </div>
         </div>
@@ -55,23 +73,12 @@ Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte K
     </div>
 </div>
 
----
-
 ## Partner
 
 Mit dem heutigen Fachkräftemangel sind ein breites Netzwerk und strategische Partnerschaften ein wichtiger Bestandteil
 unseres Erfolgs.
 
 <div class="row">
-    <div class="article col col-4 col-d-6 col-t-12">
-        <div class="sqr_border">
-            <div class="sqr">
-                <a href="https://www.ace.ch/">
-                    <img src="/images/partners/ace.png"/>
-                </a>
-            </div>
-        </div>
-    </div>
     <div class="article col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
@@ -110,34 +117,36 @@ unseres Erfolgs.
     </div>
 </div>
 
----
-
 ## Team
 
 Wir sind ein Team aus erfahrenen IT-Profis. Wir sind stolz darauf, dass wir ein breites Spektrum an Fähigkeiten und
 Erfahrungen bieten können.
 
 <div class="row">
-    <div class="article col col-6 col-d-6 col-t-12">
+    <div class="article col col-4 col-d-6 col-t-12">
       <div class="article__inner">
         <div class="article__head">
-          <img alt="Mathias Herzog" src="/images/team/mathiasherzog.png">
+          <div class="sqr_border"><div class="sqr">
+            <img alt="Mathias Herzog" src="/images/team/mathiasherzog.png">
+          </div></div>
         </div>
         <div class="article__content">
-          <h2 class="article__title">Mathias Herzog &nbsp <a class="scl" href="https://www.linkedin.com/in/mathias-herzog-888a6788/" rel="noopener">
+          <h2 class="article__title">Mathias Herzog &nbsp <a class="scl" href="https://www.linkedin.com/in/mathias-herzog-888a6788/">
             <i class="ion ion-logo-linkedin" style="color: #0580c4;"></i>
           </a></h2>
           <p class="article__excerpt">Infrastructure Artist und Brückenbauer zwischen Technik, Organisation und Management</p>
         </div>
       </div>
     </div>
-    <div class="article col col-6 col-d-6 col-t-12">
+    <div class="article col col-4 col-d-6 col-t-12">
       <div class="article__inner">
         <div class="article__head">
-          <img alt="Johann Gyger" src="/images/team/johanngyger.png">
+          <div class="sqr_border"><div class="sqr">
+            <img alt="Johann Gyger" src="/images/team/johanngyger.png">
+          </div></div>
         </div>
         <div class="article__content">
-          <h2 class="article__title">Johann Gyger &nbsp <a class="scl" href="https://www.linkedin.com/in/johanngyger/" rel="noopener">
+          <h2 class="article__title">Johann Gyger &nbsp <a class="scl" href="https://www.linkedin.com/in/johanngyger/">
             <i class="ion ion-logo-linkedin" style="color: #0580c4;"></i></a>
           </h2>
           <p class="article__excerpt">Software Artist, Cloud Native Ambassador und passionierter Engineer</p>
@@ -145,5 +154,3 @@ Erfahrungen bieten können.
       </div>
     </div>
 </div>
-
----
