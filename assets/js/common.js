@@ -77,6 +77,7 @@ document.addEventListener("DOMContentLoaded", function() {
   /* =======================
   // Zoom Image
   ======================= */
+  /*
   const lightense = document.querySelector(".page__content img, .post__content img"),
   imageLink = document.querySelectorAll(".page__content a img, .post__content a img");
 
@@ -91,7 +92,7 @@ document.addEventListener("DOMContentLoaded", function() {
     offset: 30
     });
   }
-
+  */
 
   /* =======================
   // LazyLoad Images

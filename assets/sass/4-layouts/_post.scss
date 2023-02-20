@@ -7,7 +7,7 @@
 
   a {
     font-weight: 500;
-    border-bottom: 1px solid var(--border-color);
+    //border-bottom: 1px solid var(--border-color);
 
     &:hover {
       color: var(--link-color);
@@ -33,16 +33,16 @@
 .post__info,
 .page__info {
   max-width: 760px;
-  margin: 96px auto 48px;
+  margin: 32px auto 32px;
   text-align: center;
 
   @media only screen and (max-width: $desktop) {
     max-width: 100%;
-    margin: 40px auto;
+    margin: 32px auto;
   }
 
   @media only screen and (max-width: $mobile) {
-    margin: 40px auto 32px;
+    margin: 32px auto 32px;
   }
 }
 
@@ -52,7 +52,7 @@
   align-items: center;
   flex-wrap: wrap;
   margin-bottom: 20px;
-  
+
   .post__tag {
     padding: 12px 16px;
     margin: 4px 8px 4px 0;
@@ -65,7 +65,7 @@
     color: var(--heading-font-color);
     transition: none;
     background-color: var(--background-alt-color);
-  
+
     &:last-child {
       margin-right: 0;
     }
@@ -115,7 +115,6 @@
 .page-image {
   position: relative;
   padding-top: 56.25%;
-  margin-bottom: 48px;
   border-radius: 16px;
   overflow: hidden;
   background: var(--background-alt-color);
@@ -130,7 +129,7 @@
     object-fit: cover;
     user-select: none;
   }
-  
+
   @media only screen and (max-width: $desktop) {
     margin-bottom: 40px;
   }
@@ -210,7 +209,7 @@
     margin-bottom: 48px;
     color: var(--text-alt-color);
   }
-  
+
   @media only screen and (max-width: $mobile) {
     .error__title {
       font-size: 68px;

@@ -7,11 +7,11 @@ relativeURLs = true
 paginate = 9
 
 [params]
-logo = "/images/peakscale.svg"
-logoDark = "/images/peakscale_dark.svg"
+logo = "/images/logos/peakscale.svg"
+logoDark = "/images/logos/peakscale_dark.svg"
 author = "Peak Scale"
 description = "Cloud Native Experten"
-imageSocial = "/images/peakscale_social.png"
+imageSocial = "/images/logos/peakscale_social.png"
 
 [params.plausible]
 enable = true

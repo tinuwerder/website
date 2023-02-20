@@ -1,7 +1,7 @@
 ---
 layout: contact
 title: Kontakt
-image: /images/alain-ehNRo3eWJAk-unsplash.jpeg
+image: /images/stock/anina-huber-_KHkEwnwT5E-unsplash.jpeg
 ---
 
 Wir freuen uns auf deine Nachricht!
