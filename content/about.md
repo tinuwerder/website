@@ -119,8 +119,8 @@ unseres Erfolgs.
 
 ## Team
 
-Wir sind ein Team aus erfahrenen IT-Profis. Wir sind stolz darauf, dass wir ein breites Spektrum an Fähigkeiten und
-Erfahrungen bieten können.
+Wir sind ein Team aus erfahrenen IT-Profis, das stolz darauf ist, ein breites Spektrum an Fähigkeiten und Erfahrungen 
+bieten zu können.
 
 <div class="row">
     <div class="article col col-4 col-d-6 col-t-12">
