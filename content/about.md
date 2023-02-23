@@ -8,7 +8,7 @@ image: /images/stock/alain-ehNRo3eWJAk-unsplash.jpeg
 Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte Kunden gewinnen können.
 
 <div class="row">
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://www.ace.ch/">
@@ -17,7 +17,7 @@ Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte K
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://www.bedag.ch/">
@@ -26,7 +26,7 @@ Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte K
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://www.bfh.ch/">
@@ -35,7 +35,7 @@ Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte K
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://www.bison-group.com/">
@@ -44,7 +44,7 @@ Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte K
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://www.bit.admin.ch/">
@@ -53,7 +53,7 @@ Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte K
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://www.gelan.ch/">
@@ -62,7 +62,7 @@ Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte K
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://www.mobiliar.ch/">
@@ -79,7 +79,7 @@ Mit dem heutigen Fachkräftemangel sind ein breites Netzwerk und strategische Pa
 unseres Erfolgs.
 
 <div class="row">
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://avega.ch/">
@@ -88,7 +88,7 @@ unseres Erfolgs.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://bespinian.io/">
@@ -97,7 +97,7 @@ unseres Erfolgs.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://www.kiwi.ch/">
@@ -106,7 +106,7 @@ unseres Erfolgs.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://nuvibit.com/">

@@ -1,5 +1,5 @@
 /* Article */
-.article {
+.article__hover {
   margin-bottom: 32px;
   will-change: transform;
   transition: transform .2s;
@@ -12,6 +12,10 @@
       text-decoration-color: var(--link-color-hover);
     }
   }
+}
+
+.article {
+  margin-bottom: 32px;
 }
 
 .article__head {
