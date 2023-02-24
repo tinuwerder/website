@@ -9,30 +9,194 @@ Sämtliche Themen in der IT unterliegen dem steten Wandel. Architekturen werden 
 entwickelt, sodass sie der kontinuierlichen Veränderung Rechnung tragen und sich an neue Gegebenheiten anpassen. Mit
 unserer Erfahrung unterstützen wir auf dem Weg zur modernen IT Architektur in der Cloud.
 
-- Wir unterstützen sie auf dem Weg zu ihrer individuellen Cloud Journey
-- Wir beurteilen und challengen bestehende Lösungen und helfen beim Aufbau und dem Design von neuen Umgebungen
-- Unser Fokus liegt auf pragmatischen und evolutionären Architekturansätzen
+<div class="row">
+    <div class="article col col-4 col-d-6 col-t-12">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img class="border" src="/images/services/cloud-bolt.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">Wir unterstützen sie auf dem Weg zu ihrer individuellen Cloud Journey</p>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-6 col-t-12">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img class="border" src="/images/services/cubes.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">Wir beurteilen und challengen bestehende Lösungen und helfen beim Aufbau und
+                    dem Design von neuen Umgebungen</p>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-6 col-t-12">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img class="border" src="/images/services/diagram-project.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">Unser Fokus liegt auf pragmatischen und evolutionären
+                    Architekturansätzen</p>
+            </div>
+        </div>
+    </div>
+</div>
 
 ## Engineering
 
 Als leidenschaftliche Software und Infrastructure Engineers helfen wir beim Design, bei der Umsetzung und bei der
 Implementierung moderner Technologien und Methoden.
 
-- Continuous Integration, Delivery und Deployment (CI/CD)
-- Durchgängige Automatisierung
-- Infrastructure as Code (IaC) und Configuration as Code
-- GitOps
-- Container und Kubernetes
-- Serverless
-- Observability
+<div class="row">
+    <div class="article col col-4 col-d-6 col-t-12">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img src="/images/services/gitlab.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">Continuous Integration, Delivery und Deployment (CI/CD)</p>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-6 col-t-12">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img class="border" src="/images/services/gears.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">Durchgängige Automatisierung</p>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-6 col-t-12">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img src="/images/services/terraform.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">Infrastructure as Code (IaC) und Configuration as Code</p>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-6 col-t-12">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img class="border" src="/images/services/argo.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">GitOps</p>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-6 col-t-12">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img class="border" src="/images/services/kubernetes.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">Container und Kubernetes</p>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-6 col-t-12">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img class="border" src="/images/services/func.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">Serverless</p>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-6 col-t-12">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img class="border" src="/images/services/prometheus.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">Observability</p>
+            </div>
+        </div>
+    </div>
+</div>
 
 ## Training
 
 Gerne geben wir unsere Erfahrung aus Praxis und Theorie weiter. In Form von individualisierbaren, kurzen
 Architektur-Workshops oder umfangreichen, technischen Trainings.
 
-- IT Architektur Workshops (Basiswissen) für Business Analysten, Product Owner und Scrum Master
-- Cloud Native Trainings für technisch versierte Engineers
+<div class="row">
+    <div class="article col col-4 col-d-6 col-t-12">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img class="border" src="/images/services/chalkboard-user.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">IT Architektur Workshops</p>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-6 col-t-12">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img src="/images/services/cncf.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">Cloud Native Trainings für technisch versierte Engineers</p>
+            </div>
+        </div>
+    </div>
+</div>
 
 ## Community
 
@@ -41,7 +205,7 @@ Menschen aus unterschiedlichsten Bereichen. Deswegen bringen wir Leute zusammen 
 Events. Unser Netzwerk und die gute Zusammenarbeit zu unterschiedlichsten Schweizer IT Firmen zeichnet uns aus.
 
 <div class="row">
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-6 col-t-12">
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
@@ -56,7 +220,7 @@ Events. Unser Netzwerk und die gute Zusammenarbeit zu unterschiedlichsten Schwei
         </div>
       </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-6 col-t-12">
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
@@ -71,7 +235,7 @@ Events. Unser Netzwerk und die gute Zusammenarbeit zu unterschiedlichsten Schwei
         </div>
       </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-6 col-t-12">
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
@@ -86,7 +250,7 @@ Events. Unser Netzwerk und die gute Zusammenarbeit zu unterschiedlichsten Schwei
         </div>
       </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-6 col-t-12">
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
