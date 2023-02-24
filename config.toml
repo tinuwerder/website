@@ -1,63 +1,97 @@
 #-------------------------------
 # General Site Settings
-languageCode = "de-CH"
 title = "Peak Scale"
 baseURL = "https://peakscale.ch/"
 relativeURLs = true
 paginate = 9
 
-[params]
-logo = "/images/logos/peakscale.svg"
-logoDark = "/images/logos/peakscale_dark.svg"
-author = "Peak Scale"
+# Multilingual settings
+defaultContentLanguage = "de"
+
+[languages]
+[languages.de]
+contentDir = "content/de"
+languageCode = "de-ch"
+[languages.de.params]
 description = "Cloud Native Experten"
-imageSocial = "/images/logos/peakscale_social.png"
-
-[params.plausible]
-enable = true
-domain = "peakscale.ch"
-
-#-------------------------------
-# Main Menu
-[menu]
-[[menu.main]]
-identifier = "home"
-name = "Start"
-url = "/"
-weight = 1
-
-[[menu.main]]
-identifier = "services"
-name = "Angebot"
-url = "/services/"
-weight = 2
-
-[[menu.main]]
-identifier = "about"
-name = "Über uns"
-url = "/about/"
-weight = 3
-
-[[menu.main]]
-identifier = "jobs"
-name = "Jobs"
-url = "/jobs/"
-weight = 4
-
-[[menu.main]]
-identifier = "contact"
-name = "Kontakt"
-url = "/contact/"
-weight = 5
-
-#-------------------------------
-# Hero Settings
-[params.hero]
+[languages.de.params.hero]
 hero__title = "Cloud Native Experten"
 hero__description = """Bei Peak Scale sind wir überzeugt, dass IT-Architektur dem steten Wandel unterliegt.
     Deshalb bauen wir auf pragmatische und evolutionäre Ansätze bei unseren Konzepten.
     Gerne unterstützen und beraten wir mit Dienstleistungen in den Bereichen Architektur, Engineering,
     Trainings und Assessments im Umfeld von modernen, Cloud Native-basierten Infrastrukturen."""
+[[languages.de.menu.main]]
+identifier = "home"
+name = "Start"
+url = "/"
+weight = 1
+[[languages.de.menu.main]]
+identifier = "services"
+name = "Angebot"
+url = "/services/"
+weight = 2
+[[languages.de.menu.main]]
+identifier = "about"
+name = "Über uns"
+url = "/about/"
+weight = 3
+[[languages.de.menu.main]]
+identifier = "jobs"
+name = "Jobs"
+url = "/jobs/"
+weight = 4
+[[languages.de.menu.main]]
+identifier = "contact"
+name = "Kontakt"
+url = "/contact/"
+weight = 5
+
+[languages.en]
+contentDir = "content/en"
+languageCode = "en-en"
+[languages.en.params]
+description = "Cloud Native Experts"
+[languages.en.params.hero]
+hero__title = "Cloud Native Experts"
+hero__description = """At Peak Scale, we are convinced that IT architecture is subject to constant change.
+    That is why we rely on pragmatic and evolutionary approaches.
+    We are happy to support and advise with services in the areas of architecture, engineering,
+    training, and assessments in the context of modern, cloud native-based infrastructures."""
+[[languages.en.menu.main]]
+identifier = "start"
+name = "Start"
+url = "/"
+weight = 1
+[[languages.en.menu.main]]
+identifier = "services"
+name = "Services"
+url = "/services/"
+weight = 2
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 3
+[[languages.en.menu.main]]
+identifier = "jobs"
+name = "Jobs"
+url = "/jobs/"
+weight = 4
+[[languages.en.menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 5
+
+[params]
+logo = "/images/logos/peakscale.svg"
+logoDark = "/images/logos/peakscale_dark.svg"
+author = "Peak Scale"
+imageSocial = "/images/logos/peakscale_social.png"
+
+[params.plausible]
+enable = true
+domain = "peakscale.ch"
 
 #-------------------------------
 # Footer Settings

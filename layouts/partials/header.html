@@ -25,9 +25,14 @@
               {{ range.Site.Menus.main }}
               {{ $active := eq $.RelPermalink (.URL | relLangURL) }}
               <li class="nav__item">
-                <a href="{{ .URL }}" class="nav__link {{ if $active }}nav__link__current{{ end }}">{{ .Name }}</a>
+                <a href="{{ .URL | absLangURL }}" class="nav__link {{ if $active }}nav__link__current{{ end }}">{{ .Name }}</a>
               </li>
               {{ end }}
+              {{ range .Translations }}
+              <li class="nav__item">
+                <a  class="nav__link" href="{{ .Permalink }}">{{ .Lang | upper }}</a>
+              </li>
+              {{ end}}
               <li class="nav__item">
                 <div class="toggle-theme">
                   <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon"></i></div>

@@ -10,7 +10,7 @@ entwickelt, sodass sie der kontinuierlichen Veränderung Rechnung tragen und sic
 unserer Erfahrung unterstützen wir auf dem Weg zur modernen IT Architektur in der Cloud.
 
 <div class="row">
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article col col-4 col-d-4 col-t-6">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -20,11 +20,11 @@ unserer Erfahrung unterstützen wir auf dem Weg zur modernen IT Architektur in d
                 </div>
             </div>
             <div class="article__content">
-                <p class="article__excerpt">Wir unterstützen sie auf dem Weg zu ihrer individuellen Cloud Journey</p>
+                <p class="article__excerpt">Wir unterstützen auf dem Weg zur individuellen Cloud Journey.</p>
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article col col-4 col-d-4 col-t-6">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -35,11 +35,11 @@ unserer Erfahrung unterstützen wir auf dem Weg zur modernen IT Architektur in d
             </div>
             <div class="article__content">
                 <p class="article__excerpt">Wir beurteilen und challengen bestehende Lösungen und helfen beim Aufbau und
-                    dem Design von neuen Umgebungen</p>
+                    Design von neuen Umgebungen.</p>
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article col col-4 col-d-4 col-t-6">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -50,7 +50,7 @@ unserer Erfahrung unterstützen wir auf dem Weg zur modernen IT Architektur in d
             </div>
             <div class="article__content">
                 <p class="article__excerpt">Unser Fokus liegt auf pragmatischen und evolutionären
-                    Architekturansätzen</p>
+                    Architekturansätzen.</p>
             </div>
         </div>
     </div>
@@ -62,7 +62,7 @@ Als leidenschaftliche Software und Infrastructure Engineers helfen wir beim Desi
 Implementierung moderner Technologien und Methoden.
 
 <div class="row">
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article col col-4 col-d-4 col-t-6">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -76,12 +76,12 @@ Implementierung moderner Technologien und Methoden.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article col col-4 col-d-4 col-t-6">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img class="border" src="/images/services/gears.svg">
+                        <img class="border" src="/images/services/gopher.svg">
                     </div>
                 </div>
             </div>
@@ -90,7 +90,7 @@ Implementierung moderner Technologien und Methoden.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article col col-4 col-d-4 col-t-6">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -104,7 +104,7 @@ Implementierung moderner Technologien und Methoden.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article col col-4 col-d-4 col-t-6">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -118,7 +118,7 @@ Implementierung moderner Technologien und Methoden.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article col col-4 col-d-4 col-t-6">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -132,7 +132,7 @@ Implementierung moderner Technologien und Methoden.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article col col-4 col-d-4 col-t-6">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -146,7 +146,7 @@ Implementierung moderner Technologien und Methoden.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article col col-4 col-d-4 col-t-6">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -168,7 +168,7 @@ Gerne geben wir unsere Erfahrung aus Praxis und Theorie weiter. In Form von indi
 Architektur-Workshops oder umfangreichen, technischen Trainings.
 
 <div class="row">
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article col col-4 col-d-4 col-t-6">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -182,7 +182,7 @@ Architektur-Workshops oder umfangreichen, technischen Trainings.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-6 col-t-12">
+    <div class="article col col-4 col-d-4 col-t-6">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -205,7 +205,7 @@ Menschen aus unterschiedlichsten Bereichen. Deswegen bringen wir Leute zusammen 
 Events. Unser Netzwerk und die gute Zusammenarbeit zu unterschiedlichsten Schweizer IT Firmen zeichnet uns aus.
 
 <div class="row">
-    <div class="article__hover col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-4 col-t-6">
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
@@ -220,7 +220,7 @@ Events. Unser Netzwerk und die gute Zusammenarbeit zu unterschiedlichsten Schwei
         </div>
       </div>
     </div>
-    <div class="article__hover col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-4 col-t-6">
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
@@ -235,7 +235,7 @@ Events. Unser Netzwerk und die gute Zusammenarbeit zu unterschiedlichsten Schwei
         </div>
       </div>
     </div>
-    <div class="article__hover col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-4 col-t-6">
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
@@ -250,7 +250,7 @@ Events. Unser Netzwerk und die gute Zusammenarbeit zu unterschiedlichsten Schwei
         </div>
       </div>
     </div>
-    <div class="article__hover col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-4 col-d-4 col-t-6">
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
