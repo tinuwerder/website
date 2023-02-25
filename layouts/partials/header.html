@@ -5,7 +5,7 @@
       <div class="header__inner col col-12">
 
         <div class="logo">
-          <a class="logo__link" href="/">
+          <a class="logo__link" href="{{ absLangURL "" }}">
             {{ if .Site.Params.logo }}
               <div class="toggle-moon"><img src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }}" width="115" height="50"></div>
               <div class="toggle-sun"><img src="{{ .Site.Params.logoDark }}" alt="{{ .Site.Title }}" width="115" height="50"></div>
@@ -30,7 +30,7 @@
               {{ end }}
               {{ range .Translations }}
               <li class="nav__item">
-                <a  class="nav__link" href="{{ .Permalink }}">{{ .Lang | upper }}</a>
+                <a  class="nav__link" href="{{ .Permalink }}">{{ if eq .Lang "en" }}🇬🇧{{ else }}🇩🇪{{ end }}</a>
               </li>
               {{ end}}
               <li class="nav__item">

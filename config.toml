@@ -21,11 +21,6 @@ hero__description = """Bei Peak Scale sind wir überzeugt, dass IT-Architektur d
     Gerne unterstützen und beraten wir mit Dienstleistungen in den Bereichen Architektur, Engineering,
     Trainings und Assessments im Umfeld von modernen, Cloud Native-basierten Infrastrukturen."""
 [[languages.de.menu.main]]
-identifier = "home"
-name = "Start"
-url = "/"
-weight = 1
-[[languages.de.menu.main]]
 identifier = "services"
 name = "Angebot"
 url = "/services/"
@@ -57,11 +52,6 @@ hero__description = """At Peak Scale, we are convinced that IT architecture is s
     That is why we rely on pragmatic and evolutionary approaches.
     We are happy to support and advise with services in the areas of architecture, engineering,
     training, and assessments in the context of modern, cloud native-based infrastructures."""
-[[languages.en.menu.main]]
-identifier = "start"
-name = "Start"
-url = "/"
-weight = 1
 [[languages.en.menu.main]]
 identifier = "services"
 name = "Services"
