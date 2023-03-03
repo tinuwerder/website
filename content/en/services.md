@@ -64,12 +64,12 @@ technologies and methods.
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img src="/images/services/gitlab.svg">
+                        <img class="border" src="/images/services/kubernetes.svg">
                     </div>
                 </div>
             </div>
             <div class="article__content">
-                <p class="article__excerpt">Continuous Integration, Delivery, and Deployment (CI/CD)</p>
+                <p class="article__excerpt">Containers and Kubernetes</p>
             </div>
         </div>
     </div>
@@ -84,6 +84,34 @@ technologies and methods.
             </div>
             <div class="article__content">
                 <p class="article__excerpt">End-to-end automation</p>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-4 col-t-6">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img class="border" src="/images/services/slsa.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">Supply Chain Security with SLSA and Sigstore</p>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-4 col-t-6">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img src="/images/services/gitlab.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">Continuous Integration, Delivery, and Deployment (CI/CD)</p>
             </div>
         </div>
     </div>
@@ -111,21 +139,7 @@ technologies and methods.
                 </div>
             </div>
             <div class="article__content">
-                <p class="article__excerpt">GitOps</p>
-            </div>
-        </div>
-    </div>
-    <div class="article col col-4 col-d-4 col-t-6">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img class="border" src="/images/services/kubernetes.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">Containers and Kubernetes</p>
+                <p class="article__excerpt">GitOps with Argo CD and Flux</p>
             </div>
         </div>
     </div>

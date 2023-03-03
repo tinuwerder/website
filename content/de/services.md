@@ -67,12 +67,12 @@ Implementierung moderner Technologien und Methoden.
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img src="/images/services/gitlab.svg">
+                        <img class="border" src="/images/services/kubernetes.svg">
                     </div>
                 </div>
             </div>
             <div class="article__content">
-                <p class="article__excerpt">Continuous Integration, Delivery und Deployment (CI/CD)</p>
+                <p class="article__excerpt">Container und Kubernetes</p>
             </div>
         </div>
     </div>
@@ -87,6 +87,34 @@ Implementierung moderner Technologien und Methoden.
             </div>
             <div class="article__content">
                 <p class="article__excerpt">Durchgängige Automatisierung</p>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-4 col-t-6">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img class="border" src="/images/services/slsa.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">Supply Chain Security mit SLSA und Sigstore</p>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-4 col-t-6">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img src="/images/services/gitlab.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">Continuous Integration, Delivery und Deployment (CI/CD)</p>
             </div>
         </div>
     </div>
@@ -114,21 +142,7 @@ Implementierung moderner Technologien und Methoden.
                 </div>
             </div>
             <div class="article__content">
-                <p class="article__excerpt">GitOps</p>
-            </div>
-        </div>
-    </div>
-    <div class="article col col-4 col-d-4 col-t-6">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img class="border" src="/images/services/kubernetes.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">Container und Kubernetes</p>
+                <p class="article__excerpt">GitOps mit Argo CD und Flux</p>
             </div>
         </div>
     </div>
