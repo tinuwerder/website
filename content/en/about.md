@@ -47,7 +47,7 @@ Although we are still a young company, we have already been able to win some wel
     <div class="article__hover col col-4 col-d-6 col-t-12">
         <div class="sqr_border">
             <div class="sqr">
-                <a href="https://www.bit.admin.ch/">
+                <a href="https://admin.ch/">
                     <img src="/images/customers/bund.svg">
                 </a>
             </div>
