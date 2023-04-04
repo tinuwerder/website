@@ -114,6 +114,15 @@ With today's shortage of skilled staff, a broad network and strategic partnershi
             </div>
         </div>
     </div>
+    <div class="article__hover col col-4 col-d-6 col-t-12">
+        <div class="sqr_border">
+            <div class="sqr">
+                <a href="https://origoss.com/">
+                    <img src="/images/partners/origoss.svg"/>
+                </a>
+            </div>
+        </div>
+    </div>
 </div>
 
 ## Team
