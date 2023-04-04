@@ -231,8 +231,10 @@
 }
 
 .lang-switcher {
-  font-size: 20px;
-  display: inline-block;
+  font-size: 14px;
+  border: 1.5px solid;
+  border-radius: 5px;
+  padding: 0 2px;
 
   @media only screen and (max-width: $desktop) {
     padding: 16px 0;

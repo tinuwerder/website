@@ -30,7 +30,9 @@
               {{ end }}
               {{ range .Translations }}
               <li class="nav__item">
-                <a  class="lang-switcher" href="{{ .Permalink }}">{{ if eq .Lang "en" }}🇬🇧{{ else }}🇩🇪{{ end }}</a>
+                <div>
+                  <a class="lang-switcher" href="{{ .Permalink }}">{{ .Lang }}</a>
+                </div>
               </li>
               {{ end}}
               <li class="nav__item">
