@@ -64,26 +64,12 @@ technologies and methods.
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img class="border" src="/images/services/kubernetes.svg">
+                        <img class="border" src="/images/services/argo.svg">
                     </div>
                 </div>
             </div>
             <div class="article__content">
-                <p class="article__excerpt">Containers and Kubernetes</p>
-            </div>
-        </div>
-    </div>
-    <div class="article col col-4 col-d-4 col-t-6">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img class="border" src="/images/services/gopher.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">End-to-end automation</p>
+                <p class="article__excerpt">GitOps with Argo CD and Flux</p>
             </div>
         </div>
     </div>
@@ -98,6 +84,34 @@ technologies and methods.
             </div>
             <div class="article__content">
                 <p class="article__excerpt">Supply Chain Security with SLSA and Sigstore</p>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-4 col-t-6">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img class="border" src="/images/services/backstage.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">Internal Developer Portals</p>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-4 col-t-6">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img class="border" src="/images/services/kubernetes.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">Containers and Kubernetes</p>
             </div>
         </div>
     </div>
@@ -134,26 +148,12 @@ technologies and methods.
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img class="border" src="/images/services/argo.svg">
+                        <img class="border" src="/images/services/gopher.svg">
                     </div>
                 </div>
             </div>
             <div class="article__content">
-                <p class="article__excerpt">GitOps with Argo CD and Flux</p>
-            </div>
-        </div>
-    </div>
-    <div class="article col col-4 col-d-4 col-t-6">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img class="border" src="/images/services/func.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">Serverless</p>
+                <p class="article__excerpt">End-to-end automation</p>
             </div>
         </div>
     </div>
@@ -168,6 +168,20 @@ technologies and methods.
             </div>
             <div class="article__content">
                 <p class="article__excerpt">Observability</p>
+            </div>
+        </div>
+    </div>
+    <div class="article col col-4 col-d-4 col-t-6">
+        <div class="article__inner">
+            <div class="article__head">
+                <div class="sqr_border">
+                    <div class="sqr">
+                        <img class="border" src="/images/services/func.svg">
+                    </div>
+                </div>
+            </div>
+            <div class="article__content">
+                <p class="article__excerpt">Serverless</p>
             </div>
         </div>
     </div>
