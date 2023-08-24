@@ -44,7 +44,11 @@
           </div>
           <div class="form__group">
             <label class="form__label screen-reader-text" for="form-text">Your Message</label>
-            <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="Nachricht" required></textarea>
+            <textarea class="form__input" id="form-text" name="text" rows="10" placeholder="{{.Params.Message}}" required></textarea>
+          </div>
+          <div class="form__group">
+            <input type="checkbox" class="form__input__checkbox" id="form-privacy" required="">
+            <label class="form__label" for="form-privacy">{{.Params.Privacy}}</label>
           </div>
           <div class="form__group">
             <button class="button" type="submit">Senden</button>
