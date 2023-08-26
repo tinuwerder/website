@@ -230,17 +230,6 @@
   }
 }
 
-.lang-switcher {
-  font-size: 14px;
-  border: 1.5px solid;
-  border-radius: 5px;
-  padding: 0 2px;
-
-  @media only screen and (max-width: $desktop) {
-    padding: 16px 0;
-  }
-}
-
 /* Toggle Theme */
 .toggle-theme {
   position: relative;
