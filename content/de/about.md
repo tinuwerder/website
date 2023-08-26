@@ -124,6 +124,15 @@ unseres Erfolgs.
             </div>
         </div>
     </div>
+    <div class="article__hover col col-4 col-d-6 col-t-12">
+        <div class="sqr_border">
+            <div class="sqr">
+                <a href="https://www.zooey.ch/">
+                    <img src="/images/partners/zooey.svg"/>
+                </a>
+            </div>
+        </div>
+    </div>
 </div>
 
 ## Team
