@@ -15,6 +15,7 @@ languageCode = "de-ch"
 [languages.de.params]
 description = "Cloud Native Experten"
 privacy = "Datenschutz"
+legalnotice = "Impressum"
 [languages.de.params.hero]
 hero__title = "Cloud Native Experten"
 hero__description = """Bei Peak Scale sind wir überzeugt, dass IT-Architektur dem steten Wandel unterliegt.
@@ -48,6 +49,7 @@ languageCode = "en-en"
 [languages.en.params]
 description = "Cloud Native Experts"
 privacy = "Privacy"
+legalnotice = "Legal Notice"
 [languages.en.params.hero]
 hero__title = "Cloud Native Experts"
 hero__description = """At Peak Scale, we are convinced that IT architecture is subject to constant change.
