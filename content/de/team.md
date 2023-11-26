@@ -49,7 +49,7 @@ bieten zu können.
           <h2 class="article__title">Oliver Bähler &nbsp <a class="scl" href="https://www.linkedin.com/in/oliver-b%C3%A4hler-8b182b175/">
             <i class="ion ion-logo-linkedin" style="color: #0580c4;"></i></a>
           </h2>
-          <p class="article__excerpt">Solution architect und Cloud Native Maintainer</p>
+          <p class="article__excerpt">Solution Architect und Cloud Native Maintainer</p>
         </div>
       </div>
     </div>

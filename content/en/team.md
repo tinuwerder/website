@@ -48,7 +48,7 @@ We are a team of experienced IT professionals who are proud to be able to offer 
           <h2 class="article__title">Oliver Bähler &nbsp <a class="scl" href="https://www.linkedin.com/in/oliver-b%C3%A4hler-8b182b175/">
             <i class="ion ion-logo-linkedin" style="color: #0580c4;"></i></a>
           </h2>
-          <p class="article__excerpt">Solution Architect and cloud native maintainer</p>
+          <p class="article__excerpt">Solution architect and cloud native maintainer</p>
         </div>
       </div>
     </div>

@@ -208,7 +208,7 @@ technologies and methods.
                 </div>
             </div>
             <div class="article__content">
-                <p class="article__excerpt">Authentification</p>
+                <p class="article__excerpt">Authentication</p>
             </div>
         </div>
     </div>
