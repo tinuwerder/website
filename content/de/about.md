@@ -1,6 +1,5 @@
 ---
 title: Über uns
-image: /images/stock/alain-ehNRo3eWJAk-unsplash.jpeg
 ---
 
 ## Kunden
@@ -8,7 +7,7 @@ image: /images/stock/alain-ehNRo3eWJAk-unsplash.jpeg
 Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte Kunden gewinnen können.
 
 <div class="row">
-    <div class="article__hover col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-3 col-d-3 col-t-4">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://www.ace.ch/">
@@ -17,7 +16,7 @@ Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte K
             </div>
         </div>
     </div>
-    <div class="article__hover col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-3 col-d-3 col-t-4">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://www.bedag.ch/">
@@ -26,7 +25,7 @@ Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte K
             </div>
         </div>
     </div>
-    <div class="article__hover col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-3 col-d-3 col-t-4">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://www.bfh.ch/">
@@ -35,7 +34,7 @@ Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte K
             </div>
         </div>
     </div>
-    <div class="article__hover col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-3 col-d-3 col-t-4">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://www.bison-group.com/">
@@ -44,7 +43,7 @@ Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte K
             </div>
         </div>
     </div>
-    <div class="article__hover col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-3 col-d-3 col-t-4">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://admin.ch/">
@@ -53,7 +52,7 @@ Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte K
             </div>
         </div>
     </div>
-    <div class="article__hover col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-3 col-d-3 col-t-4">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://www.gelan.ch/">
@@ -62,7 +61,7 @@ Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte K
             </div>
         </div>
     </div>
-    <div class="article__hover col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-3 col-d-3 col-t-4">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://www.mobiliar.ch/">
@@ -79,7 +78,7 @@ Mit dem heutigen Fachkräftemangel sind ein breites Netzwerk und strategische Pa
 unseres Erfolgs.
 
 <div class="row">
-    <div class="article__hover col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-3 col-d-3 col-t-4">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://avega.ch/">
@@ -88,7 +87,7 @@ unseres Erfolgs.
             </div>
         </div>
     </div>
-    <div class="article__hover col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-3 col-d-3 col-t-4">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://bespinian.io/">
@@ -97,7 +96,7 @@ unseres Erfolgs.
             </div>
         </div>
     </div>
-    <div class="article__hover col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-3 col-d-3 col-t-4">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://www.kiwi.ch/">
@@ -106,7 +105,7 @@ unseres Erfolgs.
             </div>
         </div>
     </div>
-    <div class="article__hover col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-3 col-d-3 col-t-4">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://nuvibit.com/">
@@ -115,7 +114,7 @@ unseres Erfolgs.
             </div>
         </div>
     </div>
-    <div class="article__hover col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-3 col-d-3 col-t-4">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://origoss.com/">
@@ -124,7 +123,7 @@ unseres Erfolgs.
             </div>
         </div>
     </div>
-    <div class="article__hover col col-4 col-d-6 col-t-12">
+    <div class="article__hover col col-3 col-d-3 col-t-4">
         <div class="sqr_border">
             <div class="sqr">
                 <a href="https://www.zooey.ch/">
@@ -133,59 +132,4 @@ unseres Erfolgs.
             </div>
         </div>
     </div>
-</div>
-
-## Team
-
-Wir sind ein Team aus erfahrenen IT-Profis, das stolz darauf ist, ein breites Spektrum an Fähigkeiten und Erfahrungen 
-bieten zu können.
-
-<div class="row">
-    <div class="article col col-4 col-d-6 col-t-12">
-      <div class="article__inner">
-        <div class="article__head">
-          <div class="sqr_border"><div class="sqr">
-            <img alt="Mathias Herzog" src="/images/team/mathiasherzog.png">
-          </div></div>
-        </div>
-        <div class="article__content">
-          <h2 class="article__title">Mathias Herzog &nbsp <a class="scl" href="https://www.linkedin.com/in/mathias-herzog-888a6788/">
-            <i class="ion ion-logo-linkedin" style="color: #0580c4;"></i>
-          </a></h2>
-          <p class="article__excerpt">Infrastructure Artist und Brückenbauer zwischen Technik, Organisation und Management</p>
-        </div>
-      </div>
-    </div>
-    <div class="article col col-4 col-d-6 col-t-12">
-      <div class="article__inner">
-        <div class="article__head">
-          <div class="sqr_border"><div class="sqr">
-            <img alt="Johann Gyger" src="/images/team/johanngyger.png">
-          </div></div>
-        </div>
-        <div class="article__content">
-          <h2 class="article__title">Johann Gyger &nbsp <a class="scl" href="https://www.linkedin.com/in/johanngyger/">
-            <i class="ion ion-logo-linkedin" style="color: #0580c4;"></i></a>
-          </h2>
-          <p class="article__excerpt">Software Artist, Cloud Native Ambassador und passionierter Engineer</p>
-        </div>
-      </div>
-    </div>
-    <div class="article col col-4 col-d-6 col-t-12">
-      <div class="article__inner">
-        <div class="article__head">
-          <div class="sqr_border"><div class="sqr">
-            <img alt="Oliver Baehler" src="/images/team/oliverbaehler.png">
-          </div></div>
-        </div>
-        <div class="article__content">
-          <h2 class="article__title">Oliver Bähler &nbsp <a class="scl" href="https://www.linkedin.com/in/oliver-b%C3%A4hler-8b182b175/">
-            <i class="ion ion-logo-linkedin" style="color: #0580c4;"></i></a>
-          </h2>
-          <p class="article__excerpt">Solution architect und Cloud Native Maintainer</p>
-        </div>
-      </div>
-    </div>
-
-
 </div>

@@ -33,15 +33,10 @@ name = "Über uns"
 url = "/about/"
 weight = 3
 [[languages.de.menu.main]]
-identifier = "jobs"
-name = "Jobs"
-url = "/jobs/"
+identifier = "team"
+name = "Team"
+url = "/team/"
 weight = 4
-[[languages.de.menu.main]]
-identifier = "contact"
-name = "Kontakt"
-url = "/contact/"
-weight = 5
 
 [languages.en]
 contentDir = "content/en"
@@ -67,15 +62,10 @@ name = "About"
 url = "/about/"
 weight = 3
 [[languages.en.menu.main]]
-identifier = "jobs"
-name = "Jobs"
-url = "/jobs/"
+identifier = "team"
+name = "Team"
+url = "/team/"
 weight = 4
-[[languages.en.menu.main]]
-identifier = "contact"
-name = "Contact"
-url = "/contact/"
-weight = 5
 
 [params]
 logo = "/images/logos/peakscale.svg"

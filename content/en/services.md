@@ -1,6 +1,5 @@
 ---
 title: Services
-image: /images/stock/marc-thunis-_oUCmqTp8wg-unsplash.jpeg
 ---
 
 ## Architecture and Cloud
@@ -8,7 +7,7 @@ image: /images/stock/marc-thunis-_oUCmqTp8wg-unsplash.jpeg
 The IT landscape is constantly evolving, and as a result, it is important to approach architecture development in a pragmatic and evolutionary way, allowing for continuous adaptation to new circumstances. Drawing on our expertise, we provide support in the journey towards modern cloud-based IT architecture.
 
 <div class="row">
-    <div class="article col col-4 col-d-4 col-t-6">
+    <div class="article col col-3 col-d-3 col-t-4">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -22,7 +21,7 @@ The IT landscape is constantly evolving, and as a result, it is important to app
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-4 col-t-6">
+    <div class="article col col-3 col-d-3 col-t-4">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -37,7 +36,7 @@ The IT landscape is constantly evolving, and as a result, it is important to app
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-4 col-t-6">
+    <div class="article col col-3 col-d-3 col-t-4">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -59,7 +58,7 @@ As passionate software and infrastructure engineers, we assist with the design, 
 technologies and methods.
 
 <div class="row">
-    <div class="article col col-4 col-d-4 col-t-6">
+    <div class="article col col-3 col-d-3 col-t-4">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -73,7 +72,7 @@ technologies and methods.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-4 col-t-6">
+    <div class="article col col-3 col-d-3 col-t-4">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -87,7 +86,7 @@ technologies and methods.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-4 col-t-6">
+    <div class="article col col-3 col-d-3 col-t-4">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -101,7 +100,7 @@ technologies and methods.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-4 col-t-6">
+    <div class="article col col-3 col-d-3 col-t-4">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -115,7 +114,7 @@ technologies and methods.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-4 col-t-6">
+    <div class="article col col-3 col-d-3 col-t-4">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -129,7 +128,7 @@ technologies and methods.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-4 col-t-6">
+    <div class="article col col-3 col-d-3 col-t-4">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -143,7 +142,7 @@ technologies and methods.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-4 col-t-6">
+    <div class="article col col-3 col-d-3 col-t-4">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -157,7 +156,7 @@ technologies and methods.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-4 col-t-6">
+    <div class="article col col-3 col-d-3 col-t-4">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -171,7 +170,7 @@ technologies and methods.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-4 col-t-6">
+    <div class="article col col-3 col-d-3 col-t-4">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -185,7 +184,7 @@ technologies and methods.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-4 col-t-6">
+    <div class="article col col-3 col-d-3 col-t-4">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -199,7 +198,7 @@ technologies and methods.
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-4 col-t-6">
+    <div class="article col col-3 col-d-3 col-t-4">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -220,7 +219,7 @@ technologies and methods.
 We are happy to pass on our experience from practice and theory. In the form of customizable architecture workshops or comprehensive technical training.
 
 <div class="row">
-    <div class="article col col-4 col-d-4 col-t-6">
+    <div class="article col col-3 col-d-3 col-t-4">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -234,7 +233,7 @@ We are happy to pass on our experience from practice and theory. In the form of 
             </div>
         </div>
     </div>
-    <div class="article col col-4 col-d-4 col-t-6">
+    <div class="article col col-3 col-d-3 col-t-4">
         <div class="article__inner">
             <div class="article__head">
                 <div class="sqr_border">
@@ -257,7 +256,7 @@ we bring people together and organize community events. Our network and good col
 companies distinguishes us.
 
 <div class="row">
-    <div class="article__hover col col-4 col-d-4 col-t-6">
+    <div class="article__hover col col-3 col-d-3 col-t-4">
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
@@ -272,7 +271,7 @@ companies distinguishes us.
         </div>
       </div>
     </div>
-    <div class="article__hover col col-4 col-d-4 col-t-6">
+    <div class="article__hover col col-3 col-d-3 col-t-4">
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
@@ -287,7 +286,7 @@ companies distinguishes us.
         </div>
       </div>
     </div>
-    <div class="article__hover col col-4 col-d-4 col-t-6">
+    <div class="article__hover col col-3 col-d-3 col-t-4">
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
@@ -302,7 +301,7 @@ companies distinguishes us.
         </div>
       </div>
     </div>
-    <div class="article__hover col col-4 col-d-4 col-t-6">
+    <div class="article__hover col col-3 col-d-3 col-t-4">
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">

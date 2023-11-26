@@ -1,5 +1,5 @@
 ---
-title: Impressum
+title: Legal Notice
 ---
 
 # Legal Notice
