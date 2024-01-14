@@ -86,11 +86,6 @@ name = "LinkedIn"
 link = "https://www.linkedin.com/company/peakscale/"
 color = "#0580c4"
 
-[[params.social]]
-icon = "ion-logo-twitter"
-name = "Twitter"
-link = "https://twitter.com/peak_scale"
-color = "#0580c4"
 
 #-------------------------------
 # Contact Settings
