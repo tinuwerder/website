@@ -11,7 +11,7 @@ We are a team of experienced IT professionals who are proud to be able to offer 
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
-            <img alt="Mathias Herzog" src="/images/team/mathiasherzog.png">
+            <img alt="Mathias Herzog" src="/images/team/mathiasherzog.jpg">
           </div></div>
         </div>
         <div class="article__content">
@@ -26,7 +26,7 @@ We are a team of experienced IT professionals who are proud to be able to offer 
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
-            <img alt="Johann Gyger" src="/images/team/johanngyger.png">
+            <img alt="Johann Gyger" src="/images/team/johanngyger.jpg">
           </div></div>
         </div>
         <div class="article__content">
@@ -41,7 +41,7 @@ We are a team of experienced IT professionals who are proud to be able to offer 
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
-            <img alt="Oliver Baehler" src="/images/team/oliverbaehler.png">
+            <img alt="Oliver Baehler" src="/images/team/oliverbaehler.jpg">
           </div></div>
         </div>
         <div class="article__content">
