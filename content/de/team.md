@@ -53,6 +53,21 @@ bieten zu können.
         </div>
       </div>
     </div>
+    <div class="article col col-3 col-d-3 col-t-4">
+      <div class="article__inner">
+        <div class="article__head">
+          <div class="sqr_border"><div class="sqr">
+            <img alt="Nicola Lüthi" src="/images/team/nicolaluethi.jpeg">
+          </div></div>
+        </div>
+        <div class="article__content">
+          <h2 class="article__title">Nicola Lüthi &nbsp <a class="scl" href="https://www.linkedin.com/in/nicola-l%C3%BCthi-895045252/">
+            <i class="ion ion-logo-linkedin" style="color: #0580c4;"></i></a>
+          </h2>
+          <p class="article__excerpt">Cloud Native Engineer und Maintainer</p>
+        </div>
+      </div>
+    </div>
 </div>
 
 Möchtest du Teil unseres Teams werden? Dann schau dir unsere offenen Stellen an:
