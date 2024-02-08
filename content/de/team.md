@@ -61,7 +61,7 @@ bieten zu können.
           </div></div>
         </div>
         <div class="article__content">
-          <h2 class="article__title">Nicola Lüthi &nbsp <a class="scl" href="https://www.linkedin.com/in/nicola-l%C3%BCthi-895045252/>
+          <h2 class="article__title">Nicola Lüthi &nbsp <a class="scl" href="https://www.linkedin.com/in/nicola-l%C3%BCthi-895045252/">
             <i class="ion ion-logo-linkedin" style="color: #0580c4;"></i></a>
           </h2>
           <p class="article__excerpt">Cloud Native Engineer und Maintainer</p>
