@@ -7,7 +7,7 @@ title: Team
 We are a team of experienced IT professionals who are proud to be able to offer a wide range of skills and expertise.
 
 <div class="row">
-    <div class="article col col-3 col-d-3 col-t-4">
+    <div class="article col col-4 col-m-6">
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
@@ -22,7 +22,7 @@ We are a team of experienced IT professionals who are proud to be able to offer 
         </div>
       </div>
     </div>
-    <div class="article col col-3 col-d-3 col-t-4">
+    <div class="article col col-4 col-m-6">
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
@@ -37,7 +37,7 @@ We are a team of experienced IT professionals who are proud to be able to offer 
         </div>
       </div>
     </div>
-    <div class="article col col-3 col-d-3 col-t-4">
+    <div class="article col col-4 col-m-6">
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
@@ -52,7 +52,7 @@ We are a team of experienced IT professionals who are proud to be able to offer 
         </div>
       </div>
     </div>
-    <div class="article col col-3 col-d-3 col-t-4">
+    <div class="article col col-4 col-m-6">
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
@@ -64,6 +64,21 @@ We are a team of experienced IT professionals who are proud to be able to offer 
             <i class="ion ion-logo-linkedin" style="color: #0580c4;"></i></a>
           </h2>
           <p class="article__excerpt">Cloud native engineer and maintainer</p>
+        </div>
+      </div>
+    </div>
+    <div class="article col col-4 col-m-6">
+      <div class="article__inner">
+        <div class="article__head">
+          <div class="sqr_border"><div class="sqr">
+            <img alt="Lorenz Bischof" src="/images/team/lorenzbischof.jpg">
+          </div></div>
+        </div>
+        <div class="article__content">
+          <h2 class="article__title">Lorenz Bischof &nbsp <a class="scl" href="https://www.linkedin.com/in/lorenz-bischof/">
+            <i class="ion ion-logo-linkedin" style="color: #0580c4;"></i></a>
+          </h2>
+          <p class="article__excerpt">Cloud native engineer dedicated to usability, security and automation</p>
         </div>
       </div>
     </div>
