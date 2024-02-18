@@ -2,7 +2,6 @@
 # General Site Settings
 title = "Peak Scale"
 baseURL = ""
-relativeURLs = true
 paginate = 9
 
 # Multilingual settings
