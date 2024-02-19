@@ -1,10 +1,5 @@
-#-------------------------------
-# General Site Settings
 title = "Peak Scale"
-baseURL = ""
-paginate = 9
 
-# Multilingual settings
 defaultContentLanguage = "de"
 
 [languages]
@@ -21,20 +16,20 @@ hero__description = """Bei Peak Scale sind wir überzeugt, dass IT-Architektur d
     Deshalb bauen wir auf pragmatische und evolutionäre Ansätze bei unseren Konzepten.
     Gerne unterstützen und beraten wir mit Dienstleistungen in den Bereichen Architektur, Engineering,
     Trainings und Assessments im Umfeld von modernen, Cloud Native-basierten Infrastrukturen."""
-[[languages.de.menu.main]]
+[[languages.de.menus.main]]
 identifier = "services"
 name = "Angebot"
-url = "/services/"
+pageRef = "/services"
 weight = 2
-[[languages.de.menu.main]]
+[[languages.de.menus.main]]
 identifier = "about"
 name = "Über uns"
-url = "/about/"
+pageRef = "/about"
 weight = 3
-[[languages.de.menu.main]]
+[[languages.de.menus.main]]
 identifier = "team"
 name = "Team"
-url = "/team/"
+pageRef = "/team"
 weight = 4
 
 [languages.en]
@@ -50,20 +45,20 @@ hero__description = """At Peak Scale, we are convinced that IT architecture is s
     That is why we rely on pragmatic and evolutionary approaches.
     We are happy to support and advise with services in the areas of architecture, engineering,
     training, and assessments in the context of modern, cloud native-based infrastructures."""
-[[languages.en.menu.main]]
+[[languages.en.menus.main]]
 identifier = "services"
 name = "Services"
-url = "/services/"
+pageRef = "/services"
 weight = 2
-[[languages.en.menu.main]]
+[[languages.en.menus.main]]
 identifier = "about"
 name = "About"
-url = "/about/"
+pageRef = "/about"
 weight = 3
-[[languages.en.menu.main]]
+[[languages.en.menus.main]]
 identifier = "team"
 name = "Team"
-url = "/team/"
+pageRef = "/team"
 weight = 4
 
 [params]
