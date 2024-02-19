@@ -11,7 +11,7 @@ We are a team of experienced IT professionals who are proud to be able to offer 
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
-            <img alt="Mathias Herzog" src="/images/team/mathiasherzog.jpg">
+            <img alt="Mathias Herzog" src="images/mathiasherzog.jpg">
           </div></div>
         </div>
         <div class="article__content">
@@ -26,7 +26,7 @@ We are a team of experienced IT professionals who are proud to be able to offer 
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
-            <img alt="Johann Gyger" src="/images/team/johanngyger.jpg">
+            <img alt="Johann Gyger" src="images/johanngyger.jpg">
           </div></div>
         </div>
         <div class="article__content">
@@ -41,7 +41,7 @@ We are a team of experienced IT professionals who are proud to be able to offer 
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
-            <img alt="Oliver Baehler" src="/images/team/oliverbaehler.jpg">
+            <img alt="Oliver Baehler" src="images/oliverbaehler.jpg">
           </div></div>
         </div>
         <div class="article__content">
@@ -56,7 +56,7 @@ We are a team of experienced IT professionals who are proud to be able to offer 
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
-            <img alt="Nicola Lüthi" src="/images/team/nicolaluethi.jpeg">
+            <img alt="Nicola Lüthi" src="images/nicolaluethi.jpeg">
           </div></div>
         </div>
         <div class="article__content">
@@ -71,7 +71,7 @@ We are a team of experienced IT professionals who are proud to be able to offer 
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
-            <img alt="Lorenz Bischof" src="/images/team/lorenzbischof.jpg">
+            <img alt="Lorenz Bischof" src="images/lorenzbischof.jpg">
           </div></div>
         </div>
         <div class="article__content">
