@@ -14,7 +14,7 @@ unserer Erfahrung unterstützen wir auf dem Weg zur modernen IT Architektur in d
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img class="border" src="/images/services/cloud-bolt.svg">
+                        <img class="border" src="services/cloud-bolt.svg">
                     </div>
                 </div>
             </div>
@@ -28,7 +28,7 @@ unserer Erfahrung unterstützen wir auf dem Weg zur modernen IT Architektur in d
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img class="border" src="/images/services/cubes.svg">
+                        <img class="border" src="services/cubes.svg">
                     </div>
                 </div>
             </div>
@@ -43,7 +43,7 @@ unserer Erfahrung unterstützen wir auf dem Weg zur modernen IT Architektur in d
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img class="border" src="/images/services/diagram-project.svg">
+                        <img class="border" src="services/diagram-project.svg">
                     </div>
                 </div>
             </div>
@@ -66,7 +66,7 @@ Implementierung moderner Technologien und Methoden.
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img class="border" src="/images/services/harbor.svg">
+                        <img class="border" src="services/harbor.svg">
                     </div>
                 </div>
             </div>
@@ -80,7 +80,7 @@ Implementierung moderner Technologien und Methoden.
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img class="border" src="/images/services/argo.svg">
+                        <img class="border" src="services/argo.svg">
                     </div>
                 </div>
             </div>
@@ -94,7 +94,7 @@ Implementierung moderner Technologien und Methoden.
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img class="border" src="/images/services/slsa.svg">
+                        <img class="border" src="services/slsa.svg">
                     </div>
                 </div>
             </div>
@@ -108,7 +108,7 @@ Implementierung moderner Technologien und Methoden.
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img class="border" src="/images/services/backstage.svg">
+                        <img class="border" src="services/backstage.svg">
                     </div>
                 </div>
             </div>
@@ -122,7 +122,7 @@ Implementierung moderner Technologien und Methoden.
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img class="border" src="/images/services/kubernetes.svg">
+                        <img class="border" src="services/kubernetes.svg">
                     </div>
                 </div>
             </div>
@@ -136,7 +136,7 @@ Implementierung moderner Technologien und Methoden.
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img src="/images/services/gitlab.svg">
+                        <img src="services/gitlab.svg">
                     </div>
                 </div>
             </div>
@@ -150,7 +150,7 @@ Implementierung moderner Technologien und Methoden.
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img src="/images/services/terraform.svg">
+                        <img src="services/terraform.svg">
                     </div>
                 </div>
             </div>
@@ -164,7 +164,7 @@ Implementierung moderner Technologien und Methoden.
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img class="border" src="/images/services/gopher.svg">
+                        <img class="border" src="services/gopher.svg">
                     </div>
                 </div>
             </div>
@@ -178,7 +178,7 @@ Implementierung moderner Technologien und Methoden.
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img class="border" src="/images/services/prometheus.svg">
+                        <img class="border" src="services/prometheus.svg">
                     </div>
                 </div>
             </div>
@@ -192,7 +192,7 @@ Implementierung moderner Technologien und Methoden.
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img class="border" src="/images/services/func.svg">
+                        <img class="border" src="services/func.svg">
                     </div>
                 </div>
             </div>
@@ -206,7 +206,7 @@ Implementierung moderner Technologien und Methoden.
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img class="border" src="/images/services/keycloak.svg">
+                        <img class="border" src="services/keycloak.svg">
                     </div>
                 </div>
             </div>
@@ -229,7 +229,7 @@ Architektur-Workshops oder umfangreichen, technischen Trainings.
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img class="border" src="/images/services/chalkboard-user.svg">
+                        <img class="border" src="services/chalkboard-user.svg">
                     </div>
                 </div>
             </div>
@@ -243,7 +243,7 @@ Architektur-Workshops oder umfangreichen, technischen Trainings.
             <div class="article__head">
                 <div class="sqr_border">
                     <div class="sqr">
-                        <img src="/images/services/cncf.svg">
+                        <img src="services/cncf.svg">
                     </div>
                 </div>
             </div>
@@ -265,7 +265,7 @@ Events. Unser Netzwerk und die gute Zusammenarbeit zu unterschiedlichsten Schwei
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
-            <a href="https://cloudnativeday.ch/"><img src="/images/community/cloudnativeday.png"></a>
+            <a href="https://cloudnativeday.ch/"><img src="community/cloudnativeday.png"></a>
           </div></div>
         </div>
         <div class="article__content">
@@ -280,7 +280,7 @@ Events. Unser Netzwerk und die gute Zusammenarbeit zu unterschiedlichsten Schwei
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
-            <a href="https://www.meetup.com/cloudnativebern/"><img src="/images/community/meetup.svg"></a>
+            <a href="https://www.meetup.com/cloudnativebern/"><img src="community/meetup.svg"></a>
           </div></div>
         </div>
         <div class="article__content">
@@ -295,7 +295,7 @@ Events. Unser Netzwerk und die gute Zusammenarbeit zu unterschiedlichsten Schwei
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
-            <a href="https://bernerit.rocks/"><img src="/images/community/berneritrocks.png"></a>
+            <a href="https://bernerit.rocks/"><img src="community/berneritrocks.png"></a>
           </div></div>
         </div>
         <div class="article__content">
@@ -310,7 +310,7 @@ Events. Unser Netzwerk und die gute Zusammenarbeit zu unterschiedlichsten Schwei
       <div class="article__inner">
         <div class="article__head">
           <div class="sqr_border"><div class="sqr">
-            <a href="https://digitalimpact.ch/"><img src="/images/community/digitalimpact.png"></a>
+            <a href="https://digitalimpact.ch/"><img src="community/digitalimpact.png"></a>
           </div></div>
         </div>
         <div class="article__content">
