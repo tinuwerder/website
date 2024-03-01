@@ -7,81 +7,36 @@ title: Team
 We are a team of experienced IT professionals who are proud to be able to offer a wide range of skills and expertise.
 
 <div class="row">
-    <div class="article col col-4 col-m-6">
-      <div class="article__inner">
-        <div class="article__head">
-          <div class="sqr_border"><div class="sqr">
-            <img alt="Mathias Herzog" src="images/mathiasherzog.jpg">
-          </div></div>
-        </div>
-        <div class="article__content">
-          <h2 class="article__title">Mathias Herzog &nbsp <a class="scl" href="https://www.linkedin.com/in/mathias-herzog-888a6788/">
-            <i class="ion ion-logo-linkedin" style="color: #0580c4;"></i>
-          </a></h2>
-          <p class="article__excerpt">Infrastructure artist and bridge builder between technology, organization, and management</p>
-        </div>
-      </div>
-    </div>
-    <div class="article col col-4 col-m-6">
-      <div class="article__inner">
-        <div class="article__head">
-          <div class="sqr_border"><div class="sqr">
-            <img alt="Johann Gyger" src="images/johanngyger.jpg">
-          </div></div>
-        </div>
-        <div class="article__content">
-          <h2 class="article__title">Johann Gyger &nbsp <a class="scl" href="https://www.linkedin.com/in/johanngyger/">
-            <i class="ion ion-logo-linkedin" style="color: #0580c4;"></i></a>
-          </h2>
-          <p class="article__excerpt">Software artist, cloud native ambassador, and passionate engineer</p>
-        </div>
-      </div>
-    </div>
-    <div class="article col col-4 col-m-6">
-      <div class="article__inner">
-        <div class="article__head">
-          <div class="sqr_border"><div class="sqr">
-            <img alt="Oliver Baehler" src="images/oliverbaehler.jpg">
-          </div></div>
-        </div>
-        <div class="article__content">
-          <h2 class="article__title">Oliver Bähler &nbsp <a class="scl" href="https://www.linkedin.com/in/oliver-b%C3%A4hler-8b182b175/">
-            <i class="ion ion-logo-linkedin" style="color: #0580c4;"></i></a>
-          </h2>
-          <p class="article__excerpt">Solution architect and cloud native maintainer</p>
-        </div>
-      </div>
-    </div>
-    <div class="article col col-4 col-m-6">
-      <div class="article__inner">
-        <div class="article__head">
-          <div class="sqr_border"><div class="sqr">
-            <img alt="Nicola Lüthi" src="images/nicolaluethi.jpeg">
-          </div></div>
-        </div>
-        <div class="article__content">
-          <h2 class="article__title">Nicola Lüthi &nbsp <a class="scl" href="https://www.linkedin.com/in/nicola-l%C3%BCthi-895045252/">
-            <i class="ion ion-logo-linkedin" style="color: #0580c4;"></i></a>
-          </h2>
-          <p class="article__excerpt">Cloud native engineer and maintainer</p>
-        </div>
-      </div>
-    </div>
-    <div class="article col col-4 col-m-6">
-      <div class="article__inner">
-        <div class="article__head">
-          <div class="sqr_border"><div class="sqr">
-            <img alt="Lorenz Bischof" src="images/lorenzbischof.jpg">
-          </div></div>
-        </div>
-        <div class="article__content">
-          <h2 class="article__title">Lorenz Bischof &nbsp <a class="scl" href="https://www.linkedin.com/in/lorenz-bischof/">
-            <i class="ion ion-logo-linkedin" style="color: #0580c4;"></i></a>
-          </h2>
-          <p class="article__excerpt">Cloud native engineer dedicated to usability, security and automation</p>
-        </div>
-      </div>
-    </div>
+    {{<team-item
+        name="Mathias Herzog"
+        image="mathiasherzog.jpg"
+        linkedin="mathias-herzog-888a6788"
+        title="Infrastructure artist and bridge builder between technology, organization, and management"
+    >}}
+    {{<team-item
+        name="Johann Gyger"
+        image="johanngyger.jpg"
+        linkedin="johanngyger"
+        title="Software artist, cloud native ambassador, and passionate engineer"
+    >}}
+    {{<team-item
+        name="Oliver Bähler"
+        image="oliverbaehler.jpg"
+        linkedin="oliver-b%C3%A4hler-8b182b175"
+        title="Solution architect and cloud native maintainer"
+    >}}
+    {{<team-item
+        name="Nicola Lüthi"
+        image="nicolaluethi.jpeg"
+        linkedin="nicola-l%C3%BCthi-895045252"
+        title="Cloud native engineer and maintainer"
+    >}}
+    {{<team-item
+        name="Lorenz Bischof"
+        image="lorenzbischof.jpg"
+        linkedin="lorenz-bischof"
+        title="Cloud native engineer dedicated to usability, security and automation"
+    >}}
 </div>
 
 Do you want to be part of our team? Then have a look at our open positions:
