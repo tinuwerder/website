@@ -6,7 +6,6 @@ document.addEventListener("DOMContentLoaded", function() {
     menuCloseIcon = document.querySelector(".nav__icon-close"),
     menuList = document.querySelector(".main-nav"),
     toggleTheme = document.querySelector(".toggle-theme"),
-    portfolioViewButton = document.querySelector('.portfolio__toggle'),
     btnScrollToTop = document.querySelector(".top");
 
 
@@ -24,12 +23,6 @@ document.addEventListener("DOMContentLoaded", function() {
   toggleTheme.addEventListener("click", () => {
     darkMode();
   });
-
-  if (portfolioViewButton) {
-    portfolioViewButton.addEventListener("click", () => {
-      viewToggle();
-    });
-  }
 
   function menuOpen() {
     menuList.classList.add("is-open");
@@ -52,66 +45,6 @@ document.addEventListener("DOMContentLoaded", function() {
       document.documentElement.setAttribute("dark", "");
     }
   }
-
-
-  // Toggle list view
-  function viewToggle() {
-    if (html.classList.contains('view-list')) {
-      html.classList.remove('view-list');
-      localStorage.removeItem("classView");
-      document.documentElement.removeAttribute("list");
-    } else {
-      html.classList.add('view-list');
-      localStorage.setItem("classView", "list");
-      document.documentElement.setAttribute("list", "");
-    }
-  }
-
-
-  /* =======================
-  // Responsive Videos
-  ======================= */
-  reframe(".post__content iframe:not(.reframe-off), .page__content iframe:not(.reframe-off)");
-
-
-  /* =======================
-  // Zoom Image
-  ======================= */
-  /*
-  const lightense = document.querySelector(".page__content img, .post__content img"),
-  imageLink = document.querySelectorAll(".page__content a img, .post__content a img");
-
-  if (imageLink) {
-    for (var i = 0; i < imageLink.length; i++) imageLink[i].parentNode.classList.add("image-link");
-    for (var i = 0; i < imageLink.length; i++) imageLink[i].classList.add("no-lightense");
-  }
-
-  if (lightense) {
-    Lightense(".page__content img:not(.no-lightense), .post__content img:not(.no-lightense)", {
-    padding: 60,
-    offset: 30
-    });
-  }
-  */
-
-  /* =======================
-  // LazyLoad Images
-  ======================= */
-  var lazyLoadInstance = new LazyLoad({
-    elements_selector: ".lazy"
-  })
-
-
-  /* ==========================
-  // Lightbox Gallery
-  ========================== */
-  const lightbox = GLightbox({
-    touchNavigation: true,
-    loop: true,
-    moreLength: 0,
-    autoplayVideos: true
-  });
-
 
   /* =================================
   // Smooth scroll to the tags page

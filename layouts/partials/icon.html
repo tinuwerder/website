@@ -1,0 +1,5 @@
+{{ $svg := resources.Get (print "ionicons/" . ".svg") }}
+{{ $class := print . "-icon" }}
+<span class="inline-svg {{ $class }}">
+  {{- $svg.Content | safeHTML }}
+</span>
