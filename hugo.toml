@@ -75,7 +75,7 @@ domain = "peakscale.ch"
 # Footer Settings
 # Other icons can be found at https://ionicons.com/v4/
 [[params.social]]
-icon = "ion-logo-linkedin"
+icon = "logo-linkedin"
 name = "LinkedIn"
 link = "https://www.linkedin.com/company/peakscale/"
 color = "#0580c4"
