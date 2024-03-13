@@ -136,12 +136,12 @@ img,
 }
 
 .border {
-  padding: 16px;
+  padding: 8px;
 }
 
 div.sqr_border {
-  padding: 16px;
-  border-radius: 16px;
+  padding: 8px;
+  border-radius: 8px;
   background: var(--background-alt-color);
 }
 
@@ -151,7 +151,7 @@ div.sqr {
   display: block;
   height: 0;
   padding-bottom: 100%;
-  border-radius: 16px;
+  border-radius: 8px;
   overflow: hidden;
   background: white;
 
