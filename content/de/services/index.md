@@ -9,50 +9,17 @@ entwickelt, sodass sie der kontinuierlichen Veränderung Rechnung tragen und sic
 unserer Erfahrung unterstützen wir auf dem Weg zur modernen IT Architektur in der Cloud.
 
 <div class="row">
-    <div class="article col col-3 col-d-3 col-t-4">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img class="border" src="services/cloud-bolt.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">Wir unterstützen auf dem Weg zur individuellen Cloud Journey.</p>
-            </div>
-        </div>
-    </div>
-    <div class="article col col-3 col-d-3 col-t-4">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img class="border" src="services/cubes.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">Wir beurteilen und challengen bestehende Lösungen und helfen beim Aufbau und
-                    Design von neuen Umgebungen.</p>
-            </div>
-        </div>
-    </div>
-    <div class="article col col-3 col-d-3 col-t-4">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img class="border" src="services/diagram-project.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">Unser Fokus liegt auf pragmatischen und evolutionären
-                    Architekturansätzen.</p>
-            </div>
-        </div>
-    </div>
+  {{< grid-item
+      image="services/cloud-bolt.svg"
+      text="Wir unterstützen auf dem Weg zur individuellen Cloud Journey." >}}
+
+  {{< grid-item
+      image="services/cubes.svg"
+      text="Wir beurteilen und challengen bestehende Lösungen und helfen beim Aufbau und Design von neuen Umgebungen." >}}
+
+  {{< grid-item
+      image="services/diagram-project.svg"
+      text="Unser Fokus liegt auf pragmatischen und evolutionären Architekturansätzen." >}}
 </div>
 
 ## Engineering
@@ -61,160 +28,49 @@ Als leidenschaftliche Software und Infrastructure Engineers helfen wir beim Desi
 Implementierung moderner Technologien und Methoden.
 
 <div class="row">
-    <div class="article col col-3 col-d-3 col-t-4">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img class="border" src="services/harbor.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">Artefakte mit Harbor</p>
-            </div>
-        </div>
-    </div>
-    <div class="article col col-3 col-d-3 col-t-4">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img class="border" src="services/argo.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">GitOps mit Argo CD und Flux CD</p>
-            </div>
-        </div>
-    </div>
-    <div class="article col col-3 col-d-3 col-t-4">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img class="border" src="services/slsa.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">Supply Chain Security mit SLSA und Sigstore</p>
-            </div>
-        </div>
-    </div>
-    <div class="article col col-3 col-d-3 col-t-4">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img class="border" src="services/backstage.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">Internal Developer Portals</p>
-            </div>
-        </div>
-    </div>
-    <div class="article col col-3 col-d-3 col-t-4">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img class="border" src="services/kubernetes.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">Container und Kubernetes</p>
-            </div>
-        </div>
-    </div>
-    <div class="article col col-3 col-d-3 col-t-4">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img src="services/gitlab.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">Continuous Integration, Delivery und Deployment (CI/CD)</p>
-            </div>
-        </div>
-    </div>
-    <div class="article col col-3 col-d-3 col-t-4">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img src="services/terraform.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">Infrastructure as Code (IaC) und Configuration as Code</p>
-            </div>
-        </div>
-    </div>
-    <div class="article col col-3 col-d-3 col-t-4">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img class="border" src="services/gopher.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">Durchgängige Automatisierung</p>
-            </div>
-        </div>
-    </div>
-    <div class="article col col-3 col-d-3 col-t-4">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img class="border" src="services/prometheus.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">Observability</p>
-            </div>
-        </div>
-    </div>
-    <div class="article col col-3 col-d-3 col-t-4">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img class="border" src="services/func.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">Serverless</p>
-            </div>
-        </div>
-    </div>
-    <div class="article col col-3 col-d-3 col-t-4">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img class="border" src="services/keycloak.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">Authentifizierung</p>
-            </div>
-        </div>
-    </div>
+  {{< grid-item
+      image="services/harbor.svg"
+      text="Artefakte mit Harbor" >}}
+
+  {{< grid-item
+      image="services/argo.svg"
+      text="GitOps mit Argo CD und Flux CD" >}}
+
+  {{< grid-item
+      image="services/slsa.svg"
+      text="Supply Chain Security mit SLSA und Sigstore" >}}
+
+  {{< grid-item
+      image="services/backstage.svg"
+      text="Internal Developer Portals" >}}
+
+  {{< grid-item
+      image="services/kubernetes.svg"
+      text="Container und Kubernetes" >}}
+
+  {{< grid-item
+      image="services/gitlab.svg"
+      text="Continuous Integration, Delivery und Deployment (CI/CD)" >}}
+
+  {{< grid-item
+      image="services/terraform.svg"
+      text="Infrastructure as Code (IaC) und Configuration as Code" >}}
+
+  {{< grid-item
+      image="services/gopher.svg"
+      text="Durchgängige Automatisierung" >}}
+
+  {{< grid-item
+      image="services/prometheus.svg"
+      text="Observability" >}}
+
+  {{< grid-item
+      image="services/func.svg"
+      text="Serverless" >}}
+
+  {{< grid-item
+      image="services/keycloak.svg"
+      text="Authentifizierung" >}}
 </div>
 
 
@@ -224,34 +80,12 @@ Gerne geben wir unsere Erfahrung aus Praxis und Theorie weiter. In Form von indi
 Architektur-Workshops oder umfangreichen, technischen Trainings.
 
 <div class="row">
-    <div class="article col col-3 col-d-3 col-t-4">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img class="border" src="services/chalkboard-user.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">IT Architektur Workshops</p>
-            </div>
-        </div>
-    </div>
-    <div class="article col col-3 col-d-3 col-t-4">
-        <div class="article__inner">
-            <div class="article__head">
-                <div class="sqr_border">
-                    <div class="sqr">
-                        <img src="services/cncf.svg">
-                    </div>
-                </div>
-            </div>
-            <div class="article__content">
-                <p class="article__excerpt">Cloud Native Trainings für technisch versierte Engineers</p>
-            </div>
-        </div>
-    </div>
+  {{< grid-item
+      image="services/chalkboard-user.svg"
+      text="IT Architektur Workshops" >}}
+  {{< grid-item
+      image="services/cncf.svg"
+      text="Cloud Native Trainings für technisch versierte Engineers" >}}
 </div>
 
 ## Community
@@ -261,64 +95,24 @@ Menschen aus unterschiedlichsten Bereichen. Deswegen bringen wir Leute zusammen 
 Events. Unser Netzwerk und die gute Zusammenarbeit zu unterschiedlichsten Schweizer IT Firmen zeichnet uns aus.
 
 <div class="row">
-    <div class="article__hover col col-3 col-d-3 col-t-4">
-      <div class="article__inner">
-        <div class="article__head">
-          <div class="sqr_border"><div class="sqr">
-            <a href="https://cloudnativeday.ch/"><img src="community/cloudnativeday.png"></a>
-          </div></div>
-        </div>
-        <div class="article__content">
-          <h2 class="article__title"><a class="scl" href="https://cloudnativeday.ch/">
-            Swiss Cloud Native Day
-          </a></h2>
-          <p class="article__excerpt">Wir sind Co-Organisatoren des Swiss Cloud Native Days.</p>
-        </div>
-      </div>
-    </div>
-    <div class="article__hover col col-3 col-d-3 col-t-4">
-      <div class="article__inner">
-        <div class="article__head">
-          <div class="sqr_border"><div class="sqr">
-            <a href="https://www.meetup.com/cloudnativebern/"><img src="community/meetup.svg"></a>
-          </div></div>
-        </div>
-        <div class="article__content">
-          <h2 class="article__title"><a class="scl" href="https://www.meetup.com/cloudnativebern/">
-            Cloud Native Bern Meetup
-          </a></h2>
-          <p class="article__excerpt">Wir sind Co-Organisatoren des Cloud Native Bern Meetups.</p>
-        </div>
-      </div>
-    </div>
-    <div class="article__hover col col-3 col-d-3 col-t-4">
-      <div class="article__inner">
-        <div class="article__head">
-          <div class="sqr_border"><div class="sqr">
-            <a href="https://bernerit.rocks/"><img src="community/berneritrocks.png"></a>
-          </div></div>
-        </div>
-        <div class="article__content">
-          <h2 class="article__title"><a class="scl" href="https://bernerit.rocks/">
-            bernerit.rocks
-          </a></h2>
-          <p class="article__excerpt">Wir sind Mitgründer des Vereins bernerit.rocks.</p>
-        </div>
-      </div>
-    </div>
-    <div class="article__hover col col-3 col-d-3 col-t-4">
-      <div class="article__inner">
-        <div class="article__head">
-          <div class="sqr_border"><div class="sqr">
-            <a href="https://digitalimpact.ch/"><img src="community/digitalimpact.png"></a>
-          </div></div>
-        </div>
-        <div class="article__content">
-          <h2 class="article__title"><a class="scl" href="https://digitalimpact.ch/">
-            Digital Impact Network
-          </a></h2>
-          <p class="article__excerpt">Wir engagieren uns im Digital Impact Network in der Fachgruppe Cloud Native & DevOps.</p>
-        </div>
-      </div>
-    </div>
+  {{< grid-item
+      image="community/cloudnativeday.png"
+      title="Swiss Cloud Native Day"
+      text="Wir sind Co-Organisatoren des Swiss Cloud Native Days."
+      href="https://cloudnativeday.ch/" >}}
+  {{< grid-item
+      image="community/meetup.svg"
+      title="Cloud Native Bern Meetup"
+      text="Wir sind Co-Organisatoren des Cloud Native Bern Meetups."
+      href="https://www.meetup.com/cloudnativebern/" >}}
+  {{< grid-item
+      image="community/berneritrocks.png"
+      title="bernerit.rocks"
+      text="Wir sind Mitgründer des Vereins bernerit.rocks."
+      href="https://bernerit.rocks/" >}}
+  {{< grid-item
+      image="community/digitalimpact.png"
+      title="Digital Impact Network"
+      text="Wir engagieren uns im Digital Impact Network in der Fachgruppe Cloud Native & DevOps."
+      href="https://digitalimpact.ch/" >}}
 </div>
