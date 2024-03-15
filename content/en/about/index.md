@@ -28,6 +28,9 @@ Although we are still a young company, we have already been able to win some wel
   {{< grid-item
       image="customers/mobiliar.svg"
       href="https://www.mobiliar.ch/" >}}
+  {{< grid-item
+      image="customers/postfinance.svg"
+      href="https://www.postfinance.ch/" >}}
 </div>
 
 ## Partners

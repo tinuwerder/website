@@ -28,6 +28,9 @@ Obwohl wir noch ein junges Unternehmen sind, haben wir bereits einige namhafte K
   {{< grid-item
       image="customers/mobiliar.svg"
       href="https://www.mobiliar.ch/" >}}
+  {{< grid-item
+      image="customers/postfinance.svg"
+      href="https://www.postfinance.ch/" >}}
 </div>
 
 ## Partner
