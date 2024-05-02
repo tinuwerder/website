@@ -14,9 +14,9 @@ title: Datenschutzerklärung
 
 <p>Verantwortung für die Bearbeitung von Personendaten:</p>
 
-<p><strong id="verantwortlicher">Peak Scale GmbH</strong><br />
-Gerbestrasse 12<br />
-3072 Ostermundigen</p>
+<p><strong id="verantwortlicher">Peak Scale GmbH</strong><br/>
+Ryffligässchen 5<br>
+3011 Bern</p>
 
 <p><a href="mailto:info@peakscale.ch">info@peakscale.ch</a></p>
 
