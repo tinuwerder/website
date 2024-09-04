@@ -42,11 +42,15 @@ Implementierung moderner Technologien und Methoden.
 
   {{< grid-item
       image="services/kubernetes.svg"
-      text="Massgeschneiderte Kubernetes-Distributionen" >}}
+      text="Kubernetes Distributionen nach Bedürfnis" >}}
+
+  {{< grid-item
+      image="services/capsule.svg"
+      text="Multi-Tenancy" >}}
 
   {{< grid-item
       image="services/capi.png"
-      text="Control Planes als Service mit CAPI oder Kubermatic KKP" >}}
+      text="Control Planes as Service" >}}
 
   {{< grid-item
       image="services/gitlab.svg"
@@ -69,13 +73,8 @@ Implementierung moderner Technologien und Methoden.
       text="Serverless" >}}
 
   {{< grid-item
-      image="services/keycloak.svg"
-      text="Authentifizierung" >}}
-
-  {{< grid-item
       image="services/opa.svg"
       text="Policy as Code" >}}
-
 
 </div>
 
